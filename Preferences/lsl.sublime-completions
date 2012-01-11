@@ -1,0 +1,2947 @@
+{
+        "scope": "source.esl, source.lsl",
+
+        "completions":
+        [
+            {
+                "trigger": "llGetObjectDetails(key id, list params)",
+                "contents": "llGetObjectDetails(key id, list params)"
+            },
+            {
+                "trigger": "OBJECT_NAME",
+                "contents": "OBJECT_NAME"
+            },
+            {
+                "trigger": "OBJECT_DESC",
+                "contents": "OBJECT_DESC"
+            },
+            {
+                "trigger": "OBJECT_POS",
+                "contents": "OBJECT_POS"
+            },
+            {
+                "trigger": "OBJECT_ROT",
+                "contents": "OBJECT_ROT"
+            },
+            {
+                "trigger": "OBJECT_VELOCITY",
+                "contents": "OBJECT_VELOCITY"
+            },
+            {
+                "trigger": "OBJECT_OWNER",
+                "contents": "OBJECT_OWNER"
+            },
+            {
+                "trigger": "OBJECT_GROUP",
+                "contents": "OBJECT_GROUP"
+            },
+            {
+                "trigger": "OBJECT_CREATOR",
+                "contents": "OBJECT_CREATOR"
+            },
+            {
+                "trigger": "ACTIVE",
+                "contents": "ACTIVE"
+            },
+            {
+                "trigger": "AGENT",
+                "contents": "AGENT"
+            },
+            {
+                "trigger": "AGENT_ALWAYS_RUN",
+                "contents": "AGENT_ALWAYS_RUN"
+            },
+            {
+                "trigger": "AGENT_ATTACHMENTS",
+                "contents": "AGENT_ATTACHMENTS"
+            },
+            {
+                "trigger": "AGENT_AWAY",
+                "contents": "AGENT_AWAY"
+            },
+            {
+                "trigger": "AGENT_BUSY",
+                "contents": "AGENT_BUSY"
+            },
+            {
+                "trigger": "AGENT_CROUCHING",
+                "contents": "AGENT_CROUCHING"
+            },
+            {
+                "trigger": "AGENT_FLYING",
+                "contents": "AGENT_FLYING"
+            },
+            {
+                "trigger": "AGENT_IN_AIR",
+                "contents": "AGENT_IN_AIR"
+            },
+            {
+                "trigger": "AGENT_MOUSELOOK",
+                "contents": "AGENT_MOUSELOOK"
+            },
+            {
+                "trigger": "AGENT_ON_OBJECT",
+                "contents": "AGENT_ON_OBJECT"
+            },
+            {
+                "trigger": "AGENT_SCRIPTED",
+                "contents": "AGENT_SCRIPTED"
+            },
+            {
+                "trigger": "AGENT_SITTING",
+                "contents": "AGENT_SITTING"
+            },
+            {
+                "trigger": "AGENT_TYPING",
+                "contents": "AGENT_TYPING"
+            },
+            {
+                "trigger": "AGENT_WALKING",
+                "contents": "AGENT_WALKING"
+            },
+            {
+                "trigger": "ALL_SIDES",
+                "contents": "ALL_SIDES"
+            },
+            {
+                "trigger": "ANIM_ON",
+                "contents": "ANIM_ON"
+            },
+            {
+                "trigger": "ATTACH_BACK",
+                "contents": "ATTACH_BACK"
+            },
+            {
+                "trigger": "ATTACH_BELLY",
+                "contents": "ATTACH_BELLY"
+            },
+            {
+                "trigger": "ATTACH_CHEST",
+                "contents": "ATTACH_CHEST"
+            },
+            {
+                "trigger": "ATTACH_CHIN",
+                "contents": "ATTACH_CHIN"
+            },
+            {
+                "trigger": "ATTACH_HEAD",
+                "contents": "ATTACH_HEAD"
+            },
+            {
+                "trigger": "ATTACH_LEAR",
+                "contents": "ATTACH_LEAR"
+            },
+            {
+                "trigger": "ATTACH_LEYE",
+                "contents": "ATTACH_LEYE"
+            },
+            {
+                "trigger": "ATTACH_LFOOT",
+                "contents": "ATTACH_LFOOT"
+            },
+            {
+                "trigger": "ATTACH_LHAND",
+                "contents": "ATTACH_LHAND"
+            },
+            {
+                "trigger": "ATTACH_LHIP",
+                "contents": "ATTACH_LHIP"
+            },
+            {
+                "trigger": "ATTACH_LLARM",
+                "contents": "ATTACH_LLARM"
+            },
+            {
+                "trigger": "ATTACH_LLLEG",
+                "contents": "ATTACH_LLLEG"
+            },
+            {
+                "trigger": "ATTACH_LPEC",
+                "contents": "ATTACH_LPEC"
+            },
+            {
+                "trigger": "ATTACH_LSHOULDER",
+                "contents": "ATTACH_LSHOULDER"
+            },
+            {
+                "trigger": "ATTACH_LUARM",
+                "contents": "ATTACH_LUARM"
+            },
+            {
+                "trigger": "ATTACH_LULEG",
+                "contents": "ATTACH_LULEG"
+            },
+            {
+                "trigger": "ATTACH_MOUTH",
+                "contents": "ATTACH_MOUTH"
+            },
+            {
+                "trigger": "ATTACH_NOSE",
+                "contents": "ATTACH_NOSE"
+            },
+            {
+                "trigger": "ATTACH_PELVIS",
+                "contents": "ATTACH_PELVIS"
+            },
+            {
+                "trigger": "ATTACH_REAR",
+                "contents": "ATTACH_REAR"
+            },
+            {
+                "trigger": "ATTACH_REYE",
+                "contents": "ATTACH_REYE"
+            },
+            {
+                "trigger": "ATTACH_RFOOT",
+                "contents": "ATTACH_RFOOT"
+            },
+            {
+                "trigger": "ATTACH_RHAND",
+                "contents": "ATTACH_RHAND"
+            },
+            {
+                "trigger": "ATTACH_RHIP",
+                "contents": "ATTACH_RHIP"
+            },
+            {
+                "trigger": "ATTACH_RLARM",
+                "contents": "ATTACH_RLARM"
+            },
+            {
+                "trigger": "ATTACH_RLLEG",
+                "contents": "ATTACH_RLLEG"
+            },
+            {
+                "trigger": "ATTACH_RPEC",
+                "contents": "ATTACH_RPEC"
+            },
+            {
+                "trigger": "ATTACH_RSHOULDER",
+                "contents": "ATTACH_RSHOULDER"
+            },
+            {
+                "trigger": "ATTACH_RUARM",
+                "contents": "ATTACH_RUARM"
+            },
+            {
+                "trigger": "ATTACH_RULEG",
+                "contents": "ATTACH_RULEG"
+            },
+            {
+                "trigger": "CAMERA_ACTIVE",
+                "contents": "CAMERA_ACTIVE"
+            },
+            {
+                "trigger": "CAMERA_BEHINDNESS_ANGLE",
+                "contents": "CAMERA_BEHINDNESS_ANGLE"
+            },
+            {
+                "trigger": "CAMERA_BEHINDNESS_LAG",
+                "contents": "CAMERA_BEHINDNESS_LAG"
+            },
+            {
+                "trigger": "CAMERA_DISTANCE",
+                "contents": "CAMERA_DISTANCE"
+            },
+            {
+                "trigger": "CAMERA_FOCUS",
+                "contents": "CAMERA_FOCUS"
+            },
+            {
+                "trigger": "CAMERA_FOCUS_LAG",
+                "contents": "CAMERA_FOCUS_LAG"
+            },
+            {
+                "trigger": "CAMERA_FOCUS_LOCKED",
+                "contents": "CAMERA_FOCUS_LOCKED"
+            },
+            {
+                "trigger": "CAMERA_FOCUS_OFFSET",
+                "contents": "CAMERA_FOCUS_OFFSET"
+            },
+            {
+                "trigger": "CAMERA_FOCUS_THRESHOLD",
+                "contents": "CAMERA_FOCUS_THRESHOLD"
+            },
+            {
+                "trigger": "CAMERA_PITCH",
+                "contents": "CAMERA_PITCH"
+            },
+            {
+                "trigger": "CAMERA_POSITION",
+                "contents": "CAMERA_POSITION"
+            },
+            {
+                "trigger": "CAMERA_POSITION_LAG",
+                "contents": "CAMERA_POSITION_LAG"
+            },
+            {
+                "trigger": "CAMERA_POSITION_LOCKED",
+                "contents": "CAMERA_POSITION_LOCKED"
+            },
+            {
+                "trigger": "CAMERA_POSITION_THRESHOLD",
+                "contents": "CAMERA_POSITION_THRESHOLD"
+            },
+            {
+                "trigger": "CHANGED_ALLOWED_DROP",
+                "contents": "CHANGED_ALLOWED_DROP"
+            },
+            {
+                "trigger": "CHANGED_COLOR",
+                "contents": "CHANGED_COLOR"
+            },
+            {
+                "trigger": "CHANGED_INVENTORY",
+                "contents": "CHANGED_INVENTORY"
+            },
+            {
+                "trigger": "CHANGED_LINK",
+                "contents": "CHANGED_LINK"
+            },
+            {
+                "trigger": "CHANGED_SCALE",
+                "contents": "CHANGED_SCALE"
+            },
+            {
+                "trigger": "CHANGED_SHAPE",
+                "contents": "CHANGED_SHAPE"
+            },
+            {
+                "trigger": "CHANGED_TEXTURE",
+                "contents": "CHANGED_TEXTURE"
+            },
+            {
+                "trigger": "CONTROL_BACK",
+                "contents": "CONTROL_BACK"
+            },
+            {
+                "trigger": "CONTROL_DOWN",
+                "contents": "CONTROL_DOWN"
+            },
+            {
+                "trigger": "CONTROL_FWD",
+                "contents": "CONTROL_FWD"
+            },
+            {
+                "trigger": "CONTROL_LBUTTON",
+                "contents": "CONTROL_LBUTTON"
+            },
+            {
+                "trigger": "CONTROL_LEFT",
+                "contents": "CONTROL_LEFT"
+            },
+            {
+                "trigger": "CONTROL_ML_LBUTTON",
+                "contents": "CONTROL_ML_LBUTTON"
+            },
+            {
+                "trigger": "CONTROL_RIGHT",
+                "contents": "CONTROL_RIGHT"
+            },
+            {
+                "trigger": "CONTROL_ROT_LEFT",
+                "contents": "CONTROL_ROT_LEFT"
+            },
+            {
+                "trigger": "CONTROL_ROT_RIGHT",
+                "contents": "CONTROL_ROT_RIGHT"
+            },
+            {
+                "trigger": "CONTROL_UP",
+                "contents": "CONTROL_UP"
+            },
+            {
+                "trigger": "DATA_BORN",
+                "contents": "DATA_BORN"
+            },
+            {
+                "trigger": "DATA_NAME",
+                "contents": "DATA_NAME"
+            },
+            {
+                "trigger": "DATA_ONLINE",
+                "contents": "DATA_ONLINE"
+            },
+            {
+                "trigger": "DATA_PAYINFO",
+                "contents": "DATA_PAYINFO"
+            },
+            {
+                "trigger": "DATA_RATING",
+                "contents": "DATA_RATING"
+            },
+            {
+                "trigger": "DATA_SIM_POS",
+                "contents": "DATA_SIM_POS"
+            },
+            {
+                "trigger": "DATA_SIM_RATING",
+                "contents": "DATA_SIM_RATING"
+            },
+            {
+                "trigger": "DATA_SIM_STATUS",
+                "contents": "DATA_SIM_STATUS"
+            },
+            {
+                "trigger": "DEBUG_CHANNEL",
+                "contents": "DEBUG_CHANNEL"
+            },
+            {
+                "trigger": "DEG_TO_RAD",
+                "contents": "DEG_TO_RAD"
+            },
+            {
+                "trigger": "EOF",
+                "contents": "EOF"
+            },
+            {
+                "trigger": "FALSE",
+                "contents": "FALSE"
+            },
+            {
+                "trigger": "HTTP_BODY_MAXLENGTH",
+                "contents": "HTTP_BODY_MAXLENGTH"
+            },
+            {
+                "trigger": "HTTP_BODY_TRUNCATED",
+                "contents": "HTTP_BODY_TRUNCATED"
+            },
+            {
+                "trigger": "HTTP_METHOD",
+                "contents": "HTTP_METHOD"
+            },
+            {
+                "trigger": "HTTP_MIMETYPE",
+                "contents": "HTTP_MIMETYPE"
+            },
+            {
+                "trigger": "HTTP_VERIFY_CERT",
+                "contents": "HTTP_VERIFY_CERT"
+            },
+            {
+                "trigger": "INVENTORY_ALL",
+                "contents": "INVENTORY_ALL"
+            },
+            {
+                "trigger": "INVENTORY_ANIMATION",
+                "contents": "INVENTORY_ANIMATION"
+            },
+            {
+                "trigger": "INVENTORY_BODYPART",
+                "contents": "INVENTORY_BODYPART"
+            },
+            {
+                "trigger": "INVENTORY_CLOTHING",
+                "contents": "INVENTORY_CLOTHING"
+            },
+            {
+                "trigger": "INVENTORY_GESTURE",
+                "contents": "INVENTORY_GESTURE"
+            },
+            {
+                "trigger": "INVENTORY_LANDMARK",
+                "contents": "INVENTORY_LANDMARK"
+            },
+            {
+                "trigger": "INVENTORY_NOTECARD",
+                "contents": "INVENTORY_NOTECARD"
+            },
+            {
+                "trigger": "INVENTORY_OBJECT",
+                "contents": "INVENTORY_OBJECT"
+            },
+            {
+                "trigger": "INVENTORY_SCRIPT",
+                "contents": "INVENTORY_SCRIPT"
+            },
+            {
+                "trigger": "INVENTORY_SOUND",
+                "contents": "INVENTORY_SOUND"
+            },
+            {
+                "trigger": "INVENTORY_TEXTURE",
+                "contents": "INVENTORY_TEXTURE"
+            },
+            {
+                "trigger": "LAND_LARGE_BRUSH",
+                "contents": "LAND_LARGE_BRUSH"
+            },
+            {
+                "trigger": "LAND_LEVEL",
+                "contents": "LAND_LEVEL"
+            },
+            {
+                "trigger": "LAND_LOWER",
+                "contents": "LAND_LOWER"
+            },
+            {
+                "trigger": "LAND_MEDIUM_BRUSH",
+                "contents": "LAND_MEDIUM_BRUSH"
+            },
+            {
+                "trigger": "LAND_NOISE",
+                "contents": "LAND_NOISE"
+            },
+            {
+                "trigger": "LAND_RAISE",
+                "contents": "LAND_RAISE"
+            },
+            {
+                "trigger": "LAND_REVERT",
+                "contents": "LAND_REVERT"
+            },
+            {
+                "trigger": "LAND_SMALL_BRUSH",
+                "contents": "LAND_SMALL_BRUSH"
+            },
+            {
+                "trigger": "LAND_SMOOTH",
+                "contents": "LAND_SMOOTH"
+            },
+            {
+                "trigger": "LINK_ALL_CHILDREN",
+                "contents": "LINK_ALL_CHILDREN"
+            },
+            {
+                "trigger": "LINK_ALL_OTHERS",
+                "contents": "LINK_ALL_OTHERS"
+            },
+            {
+                "trigger": "LINK_ROOT",
+                "contents": "LINK_ROOT"
+            },
+            {
+                "trigger": "LINK_SET",
+                "contents": "LINK_SET"
+            },
+            {
+                "trigger": "LINK_THIS",
+                "contents": "LINK_THIS"
+            },
+            {
+                "trigger": "LIST_STAT_GEOMETRIC_MEAN",
+                "contents": "LIST_STAT_GEOMETRIC_MEAN"
+            },
+            {
+                "trigger": "LIST_STAT_MAX",
+                "contents": "LIST_STAT_MAX"
+            },
+            {
+                "trigger": "LIST_STAT_MEAN",
+                "contents": "LIST_STAT_MEAN"
+            },
+            {
+                "trigger": "LIST_STAT_MEDIAN",
+                "contents": "LIST_STAT_MEDIAN"
+            },
+            {
+                "trigger": "LIST_STAT_MIN",
+                "contents": "LIST_STAT_MIN"
+            },
+            {
+                "trigger": "LIST_STAT_NUM_COUNT",
+                "contents": "LIST_STAT_NUM_COUNT"
+            },
+            {
+                "trigger": "LIST_STAT_RANGE",
+                "contents": "LIST_STAT_RANGE"
+            },
+            {
+                "trigger": "LIST_STAT_STD_DEV",
+                "contents": "LIST_STAT_STD_DEV"
+            },
+            {
+                "trigger": "LIST_STAT_SUM",
+                "contents": "LIST_STAT_SUM"
+            },
+            {
+                "trigger": "LIST_STAT_SUM_SQUARES",
+                "contents": "LIST_STAT_SUM_SQUARES"
+            },
+            {
+                "trigger": "LOOP",
+                "contents": "LOOP"
+            },
+            {
+                "trigger": "MASK_BASE",
+                "contents": "MASK_BASE"
+            },
+            {
+                "trigger": "MASK_EVERYONE",
+                "contents": "MASK_EVERYONE"
+            },
+            {
+                "trigger": "MASK_GROUP",
+                "contents": "MASK_GROUP"
+            },
+            {
+                "trigger": "MASK_NEXT",
+                "contents": "MASK_NEXT"
+            },
+            {
+                "trigger": "MASK_OWNER",
+                "contents": "MASK_OWNER"
+            },
+            {
+                "trigger": "NULL_KEY",
+                "contents": "NULL_KEY"
+            },
+            {
+                "trigger": "PARCEL_COUNT_GROUP",
+                "contents": "PARCEL_COUNT_GROUP"
+            },
+            {
+                "trigger": "PARCEL_COUNT_OTHER",
+                "contents": "PARCEL_COUNT_OTHER"
+            },
+            {
+                "trigger": "PARCEL_COUNT_OWNER",
+                "contents": "PARCEL_COUNT_OWNER"
+            },
+            {
+                "trigger": "PARCEL_COUNT_SELECTED",
+                "contents": "PARCEL_COUNT_SELECTED"
+            },
+            {
+                "trigger": "PARCEL_COUNT_TEMP",
+                "contents": "PARCEL_COUNT_TEMP"
+            },
+            {
+                "trigger": "PARCEL_COUNT_TOTAL",
+                "contents": "PARCEL_COUNT_TOTAL"
+            },
+            {
+                "trigger": "PARCEL_DETAILS_AREA",
+                "contents": "PARCEL_DETAILS_AREA"
+            },
+            {
+                "trigger": "PARCEL_DETAILS_GROUP",
+                "contents": "PARCEL_DETAILS_GROUP"
+            },
+            {
+                "trigger": "PARCEL_DETAILS_NAME",
+                "contents": "PARCEL_DETAILS_NAME"
+            },
+            {
+                "trigger": "PARCEL_DETAILS_OWNER",
+                "contents": "PARCEL_DETAILS_OWNER"
+            },
+            {
+                "trigger": "PARCEL_FLAG_ALLOW_ALL_OBJECT_ENTRY",
+                "contents": "PARCEL_FLAG_ALLOW_ALL_OBJECT_ENTRY"
+            },
+            {
+                "trigger": "PARCEL_FLAG_ALLOW_CREATE_OBJECTS",
+                "contents": "PARCEL_FLAG_ALLOW_CREATE_OBJECTS"
+            },
+            {
+                "trigger": "PARCEL_FLAG_ALLOW_DAMAGE",
+                "contents": "PARCEL_FLAG_ALLOW_DAMAGE"
+            },
+            {
+                "trigger": "PARCEL_FLAG_ALLOW_FLY",
+                "contents": "PARCEL_FLAG_ALLOW_FLY"
+            },
+            {
+                "trigger": "PARCEL_FLAG_ALLOW_GROUP_OBJECT_ENTRY",
+                "contents": "PARCEL_FLAG_ALLOW_GROUP_OBJECT_ENTRY"
+            },
+            {
+                "trigger": "PARCEL_FLAG_ALLOW_LANDMARK",
+                "contents": "PARCEL_FLAG_ALLOW_LANDMARK"
+            },
+            {
+                "trigger": "PARCEL_FLAG_ALLOW_SCRIPTS",
+                "contents": "PARCEL_FLAG_ALLOW_SCRIPTS"
+            },
+            {
+                "trigger": "PARCEL_FLAG_ALLOW_TERRAFORM",
+                "contents": "PARCEL_FLAG_ALLOW_TERRAFORM"
+            },
+            {
+                "trigger": "PARCEL_FLAG_LOCAL_SOUND_ONLY",
+                "contents": "PARCEL_FLAG_LOCAL_SOUND_ONLY"
+            },
+            {
+                "trigger": "PARCEL_FLAG_RESTRICT_PUSHOBJECT",
+                "contents": "PARCEL_FLAG_RESTRICT_PUSHOBJECT"
+            },
+            {
+                "trigger": "PARCEL_FLAG_USE_ACCESS_GROUP",
+                "contents": "PARCEL_FLAG_USE_ACCESS_GROUP"
+            },
+            {
+                "trigger": "PARCEL_FLAG_USE_ACCESS_LIST",
+                "contents": "PARCEL_FLAG_USE_ACCESS_LIST"
+            },
+            {
+                "trigger": "PARCEL_FLAG_USE_BAN_LIST",
+                "contents": "PARCEL_FLAG_USE_BAN_LIST"
+            },
+            {
+                "trigger": "PARCEL_FLAG_USE_LAND_PASS_LIST",
+                "contents": "PARCEL_FLAG_USE_LAND_PASS_LIST"
+            },
+            {
+                "trigger": "PARCEL_MEDIA_COMMAND_AGENT",
+                "contents": "PARCEL_MEDIA_COMMAND_AGENT"
+            },
+            {
+                "trigger": "PARCEL_MEDIA_COMMAND_AUTO_ALIGN",
+                "contents": "PARCEL_MEDIA_COMMAND_AUTO_ALIGN"
+            },
+            {
+                "trigger": "PARCEL_MEDIA_COMMAND_LOOP",
+                "contents": "PARCEL_MEDIA_COMMAND_LOOP"
+            },
+            {
+                "trigger": "PARCEL_MEDIA_COMMAND_PAUSE",
+                "contents": "PARCEL_MEDIA_COMMAND_PAUSE"
+            },
+            {
+                "trigger": "PARCEL_MEDIA_COMMAND_PLAY",
+                "contents": "PARCEL_MEDIA_COMMAND_PLAY"
+            },
+            {
+                "trigger": "PARCEL_MEDIA_COMMAND_STOP",
+                "contents": "PARCEL_MEDIA_COMMAND_STOP"
+            },
+            {
+                "trigger": "PARCEL_MEDIA_COMMAND_TEXTURE",
+                "contents": "PARCEL_MEDIA_COMMAND_TEXTURE"
+            },
+            {
+                "trigger": "PARCEL_MEDIA_COMMAND_TIME",
+                "contents": "PARCEL_MEDIA_COMMAND_TIME"
+            },
+            {
+                "trigger": "PARCEL_MEDIA_COMMAND_UNLOAD",
+                "contents": "PARCEL_MEDIA_COMMAND_UNLOAD"
+            },
+            {
+                "trigger": "PARCEL_MEDIA_COMMAND_URL",
+                "contents": "PARCEL_MEDIA_COMMAND_URL"
+            },
+            {
+                "trigger": "PASSIVE",
+                "contents": "PASSIVE"
+            },
+            {
+                "trigger": "PAY_DEFAULT",
+                "contents": "PAY_DEFAULT"
+            },
+            {
+                "trigger": "PAY_HIDE",
+                "contents": "PAY_HIDE"
+            },
+            {
+                "trigger": "PERMISSION_ATTACH",
+                "contents": "PERMISSION_ATTACH"
+            },
+            {
+                "trigger": "PERMISSION_CHANGE_LINKS",
+                "contents": "PERMISSION_CHANGE_LINKS"
+            },
+            {
+                "trigger": "PERMISSION_CONTROL_CAMERA",
+                "contents": "PERMISSION_CONTROL_CAMERA"
+            },
+            {
+                "trigger": "PERMISSION_DEBIT",
+                "contents": "PERMISSION_DEBIT"
+            },
+            {
+                "trigger": "PERMISSION_TAKE_CONTROLS",
+                "contents": "PERMISSION_TAKE_CONTROLS"
+            },
+            {
+                "trigger": "PERMISSION_TRACK_CAMERA",
+                "contents": "PERMISSION_TRACK_CAMERA"
+            },
+            {
+                "trigger": "PERMISSION_TRIGGER_ANIMATION",
+                "contents": "PERMISSION_TRIGGER_ANIMATION"
+            },
+            {
+                "trigger": "PERM_ALL",
+                "contents": "PERM_ALL"
+            },
+            {
+                "trigger": "PERM_COPY",
+                "contents": "PERM_COPY"
+            },
+            {
+                "trigger": "PERM_MODIFY",
+                "contents": "PERM_MODIFY"
+            },
+            {
+                "trigger": "PERM_MOVE",
+                "contents": "PERM_MOVE"
+            },
+            {
+                "trigger": "PERM_TRANSFER",
+                "contents": "PERM_TRANSFER"
+            },
+            {
+                "trigger": "PI",
+                "contents": "PI"
+            },
+            {
+                "trigger": "PING_PONG",
+                "contents": "PING_PONG"
+            },
+            {
+                "trigger": "PI_BY_TWO",
+                "contents": "PI_BY_TWO"
+            },
+            {
+                "trigger": "PRIM_BUMP_BARK",
+                "contents": "PRIM_BUMP_BARK"
+            },
+            {
+                "trigger": "PRIM_BUMP_BLOBS",
+                "contents": "PRIM_BUMP_BLOBS"
+            },
+            {
+                "trigger": "PRIM_BUMP_BRICKS",
+                "contents": "PRIM_BUMP_BRICKS"
+            },
+            {
+                "trigger": "PRIM_BUMP_BRIGHT",
+                "contents": "PRIM_BUMP_BRIGHT"
+            },
+            {
+                "trigger": "PRIM_BUMP_CHECKER",
+                "contents": "PRIM_BUMP_CHECKER"
+            },
+            {
+                "trigger": "PRIM_BUMP_CONCRETE",
+                "contents": "PRIM_BUMP_CONCRETE"
+            },
+            {
+                "trigger": "PRIM_BUMP_DARK",
+                "contents": "PRIM_BUMP_DARK"
+            },
+            {
+                "trigger": "PRIM_BUMP_DISKS",
+                "contents": "PRIM_BUMP_DISKS"
+            },
+            {
+                "trigger": "PRIM_BUMP_GRAVEL",
+                "contents": "PRIM_BUMP_GRAVEL"
+            },
+            {
+                "trigger": "PRIM_BUMP_LARGETILE",
+                "contents": "PRIM_BUMP_LARGETILE"
+            },
+            {
+                "trigger": "PRIM_BUMP_NONE",
+                "contents": "PRIM_BUMP_NONE"
+            },
+            {
+                "trigger": "PRIM_BUMP_SHINY",
+                "contents": "PRIM_BUMP_SHINY"
+            },
+            {
+                "trigger": "PRIM_BUMP_SIDING",
+                "contents": "PRIM_BUMP_SIDING"
+            },
+            {
+                "trigger": "PRIM_BUMP_STONE",
+                "contents": "PRIM_BUMP_STONE"
+            },
+            {
+                "trigger": "PRIM_BUMP_STUCCO",
+                "contents": "PRIM_BUMP_STUCCO"
+            },
+            {
+                "trigger": "PRIM_BUMP_SUCTION",
+                "contents": "PRIM_BUMP_SUCTION"
+            },
+            {
+                "trigger": "PRIM_BUMP_TILE",
+                "contents": "PRIM_BUMP_TILE"
+            },
+            {
+                "trigger": "PRIM_BUMP_WEAVE",
+                "contents": "PRIM_BUMP_WEAVE"
+            },
+            {
+                "trigger": "PRIM_BUMP_WOOD",
+                "contents": "PRIM_BUMP_WOOD"
+            },
+            {
+                "trigger": "PRIM_COLOR",
+                "contents": "PRIM_COLOR"
+            },
+            {
+                "trigger": "PRIM_FLEXIBLE",
+                "contents": "PRIM_FLEXIBLE"
+            },
+            {
+                "trigger": "PRIM_HOLE_CIRCLE",
+                "contents": "PRIM_HOLE_CIRCLE"
+            },
+            {
+                "trigger": "PRIM_HOLE_DEFAULT",
+                "contents": "PRIM_HOLE_DEFAULT"
+            },
+            {
+                "trigger": "PRIM_HOLE_SQUARE",
+                "contents": "PRIM_HOLE_SQUARE"
+            },
+            {
+                "trigger": "PRIM_HOLE_TRIANGLE",
+                "contents": "PRIM_HOLE_TRIANGLE"
+            },
+            {
+                "trigger": "PRIM_MATERIAL",
+                "contents": "PRIM_MATERIAL"
+            },
+            {
+                "trigger": "PRIM_MATERIAL_FLESH",
+                "contents": "PRIM_MATERIAL_FLESH"
+            },
+            {
+                "trigger": "PRIM_MATERIAL_GLASS",
+                "contents": "PRIM_MATERIAL_GLASS"
+            },
+            {
+                "trigger": "PRIM_MATERIAL_LIGHT",
+                "contents": "PRIM_MATERIAL_LIGHT"
+            },
+            {
+                "trigger": "PRIM_MATERIAL_METAL",
+                "contents": "PRIM_MATERIAL_METAL"
+            },
+            {
+                "trigger": "PRIM_MATERIAL_PLASTIC",
+                "contents": "PRIM_MATERIAL_PLASTIC"
+            },
+            {
+                "trigger": "PRIM_MATERIAL_RUBBER",
+                "contents": "PRIM_MATERIAL_RUBBER"
+            },
+            {
+                "trigger": "PRIM_MATERIAL_STONE",
+                "contents": "PRIM_MATERIAL_STONE"
+            },
+            {
+                "trigger": "PRIM_MATERIAL_WOOD",
+                "contents": "PRIM_MATERIAL_WOOD"
+            },
+            {
+                "trigger": "PRIM_PHANTOM",
+                "contents": "PRIM_PHANTOM"
+            },
+            {
+                "trigger": "PRIM_PHYSICS",
+                "contents": "PRIM_PHYSICS"
+            },
+            {
+                "trigger": "PRIM_POINT_LIGHT",
+                "contents": "PRIM_POINT_LIGHT"
+            },
+            {
+                "trigger": "PRIM_POSITION",
+                "contents": "PRIM_POSITION"
+            },
+            {
+                "trigger": "PRIM_ROTATION",
+                "contents": "PRIM_ROTATION"
+            },
+            {
+                "trigger": "PRIM_SHINY_HIGH",
+                "contents": "PRIM_SHINY_HIGH"
+            },
+            {
+                "trigger": "PRIM_SHINY_LOW",
+                "contents": "PRIM_SHINY_LOW"
+            },
+            {
+                "trigger": "PRIM_SHINY_MEDIUM",
+                "contents": "PRIM_SHINY_MEDIUM"
+            },
+            {
+                "trigger": "PRIM_SHINY_NONE",
+                "contents": "PRIM_SHINY_NONE"
+            },
+            {
+                "trigger": "PRIM_SIZE",
+                "contents": "PRIM_SIZE"
+            },
+            {
+                "trigger": "PRIM_TEMP_ON_REZ",
+                "contents": "PRIM_TEMP_ON_REZ"
+            },
+            {
+                "trigger": "PRIM_TEXGEN_DEFAULT",
+                "contents": "PRIM_TEXGEN_DEFAULT"
+            },
+            {
+                "trigger": "PRIM_TEXGEN_PLANAR",
+                "contents": "PRIM_TEXGEN_PLANAR"
+            },
+            {
+                "trigger": "PRIM_TEXTURE",
+                "contents": "PRIM_TEXTURE"
+            },
+            {
+                "trigger": "PRIM_TYPE",
+                "contents": "PRIM_TYPE"
+            },
+            {
+                "trigger": "PRIM_TYPE_BOX",
+                "contents": "PRIM_TYPE_BOX"
+            },
+            {
+                "trigger": "PRIM_TYPE_CYLINDER",
+                "contents": "PRIM_TYPE_CYLINDER"
+            },
+            {
+                "trigger": "PRIM_TYPE_PRISM",
+                "contents": "PRIM_TYPE_PRISM"
+            },
+            {
+                "trigger": "PRIM_TYPE_RING",
+                "contents": "PRIM_TYPE_RING"
+            },
+            {
+                "trigger": "PRIM_TYPE_SPHERE",
+                "contents": "PRIM_TYPE_SPHERE"
+            },
+            {
+                "trigger": "PRIM_TYPE_TORUS",
+                "contents": "PRIM_TYPE_TORUS"
+            },
+            {
+                "trigger": "PRIM_TYPE_TUBE",
+                "contents": "PRIM_TYPE_TUBE"
+            },
+            {
+                "trigger": "PSYS_PART_BOUNCE_MASK",
+                "contents": "PSYS_PART_BOUNCE_MASK"
+            },
+            {
+                "trigger": "PSYS_PART_EMISSIVE_MASK",
+                "contents": "PSYS_PART_EMISSIVE_MASK"
+            },
+            {
+                "trigger": "PSYS_PART_END_ALPHA",
+                "contents": "PSYS_PART_END_ALPHA"
+            },
+            {
+                "trigger": "PSYS_PART_END_COLOR",
+                "contents": "PSYS_PART_END_COLOR"
+            },
+            {
+                "trigger": "PSYS_PART_END_SCALE",
+                "contents": "PSYS_PART_END_SCALE"
+            },
+            {
+                "trigger": "PSYS_PART_FLAGS",
+                "contents": "PSYS_PART_FLAGS"
+            },
+            {
+                "trigger": "PSYS_PART_FOLLOW_SRC_MASK",
+                "contents": "PSYS_PART_FOLLOW_SRC_MASK"
+            },
+            {
+                "trigger": "PSYS_PART_FOLLOW_VELOCITY_MASK",
+                "contents": "PSYS_PART_FOLLOW_VELOCITY_MASK"
+            },
+            {
+                "trigger": "PSYS_PART_INTERP_COLOR_MASK",
+                "contents": "PSYS_PART_INTERP_COLOR_MASK"
+            },
+            {
+                "trigger": "PSYS_PART_INTERP_SCALE_MASK",
+                "contents": "PSYS_PART_INTERP_SCALE_MASK"
+            },
+            {
+                "trigger": "PSYS_PART_MAX_AGE",
+                "contents": "PSYS_PART_MAX_AGE"
+            },
+            {
+                "trigger": "PSYS_PART_START_ALPHA",
+                "contents": "PSYS_PART_START_ALPHA"
+            },
+            {
+                "trigger": "PSYS_PART_START_COLOR",
+                "contents": "PSYS_PART_START_COLOR"
+            },
+            {
+                "trigger": "PSYS_PART_START_SCALE",
+                "contents": "PSYS_PART_START_SCALE"
+            },
+            {
+                "trigger": "PSYS_PART_TARGET_LINEAR_MASK",
+                "contents": "PSYS_PART_TARGET_LINEAR_MASK"
+            },
+            {
+                "trigger": "PSYS_PART_TARGET_POS_MASK",
+                "contents": "PSYS_PART_TARGET_POS_MASK"
+            },
+            {
+                "trigger": "PSYS_PART_WIND_MASK",
+                "contents": "PSYS_PART_WIND_MASK"
+            },
+            {
+                "trigger": "PSYS_SRC_ACCEL",
+                "contents": "PSYS_SRC_ACCEL"
+            },
+            {
+                "trigger": "PSYS_SRC_ANGLE_BEGIN",
+                "contents": "PSYS_SRC_ANGLE_BEGIN"
+            },
+            {
+                "trigger": "PSYS_SRC_ANGLE_END",
+                "contents": "PSYS_SRC_ANGLE_END"
+            },
+            {
+                "trigger": "PSYS_SRC_BURST_PART_COUNT",
+                "contents": "PSYS_SRC_BURST_PART_COUNT"
+            },
+            {
+                "trigger": "PSYS_SRC_BURST_RADIUS",
+                "contents": "PSYS_SRC_BURST_RADIUS"
+            },
+            {
+                "trigger": "PSYS_SRC_BURST_RATE",
+                "contents": "PSYS_SRC_BURST_RATE"
+            },
+            {
+                "trigger": "PSYS_SRC_BURST_SPEED_MAX",
+                "contents": "PSYS_SRC_BURST_SPEED_MAX"
+            },
+            {
+                "trigger": "PSYS_SRC_BURST_SPEED_MIN",
+                "contents": "PSYS_SRC_BURST_SPEED_MIN"
+            },
+            {
+                "trigger": "PSYS_SRC_INNERANGLE",
+                "contents": "PSYS_SRC_INNERANGLE"
+            },
+            {
+                "trigger": "PSYS_SRC_MAX_AGE",
+                "contents": "PSYS_SRC_MAX_AGE"
+            },
+            {
+                "trigger": "PSYS_SRC_OMEGA",
+                "contents": "PSYS_SRC_OMEGA"
+            },
+            {
+                "trigger": "PSYS_SRC_OUTERANGLE",
+                "contents": "PSYS_SRC_OUTERANGLE"
+            },
+            {
+                "trigger": "PSYS_SRC_PATTERN",
+                "contents": "PSYS_SRC_PATTERN"
+            },
+            {
+                "trigger": "PSYS_SRC_PATTERN_ANGLE",
+                "contents": "PSYS_SRC_PATTERN_ANGLE"
+            },
+            {
+                "trigger": "PSYS_SRC_PATTERN_ANGLE_CONE",
+                "contents": "PSYS_SRC_PATTERN_ANGLE_CONE"
+            },
+            {
+                "trigger": "PSYS_SRC_PATTERN_ANGLE_CONE_EMPTY",
+                "contents": "PSYS_SRC_PATTERN_ANGLE_CONE_EMPTY"
+            },
+            {
+                "trigger": "PSYS_SRC_PATTERN_DROP",
+                "contents": "PSYS_SRC_PATTERN_DROP"
+            },
+            {
+                "trigger": "PSYS_SRC_PATTERN_EXPLODE",
+                "contents": "PSYS_SRC_PATTERN_EXPLODE"
+            },
+            {
+                "trigger": "PSYS_SRC_TARGET_KEY",
+                "contents": "PSYS_SRC_TARGET_KEY"
+            },
+            {
+                "trigger": "PSYS_SRC_TEXTURE",
+                "contents": "PSYS_SRC_TEXTURE"
+            },
+            {
+                "trigger": "RAD_TO_DEG",
+                "contents": "RAD_TO_DEG"
+            },
+            {
+                "trigger": "REGION_FLAG_ALLOW_DAMAGE",
+                "contents": "REGION_FLAG_ALLOW_DAMAGE"
+            },
+            {
+                "trigger": "REGION_FLAG_ALLOW_DIRECT_TELEPORT",
+                "contents": "REGION_FLAG_ALLOW_DIRECT_TELEPORT"
+            },
+            {
+                "trigger": "REGION_FLAG_BLOCK_FLY",
+                "contents": "REGION_FLAG_BLOCK_FLY"
+            },
+            {
+                "trigger": "REGION_FLAG_BLOCK_TERRAFORM",
+                "contents": "REGION_FLAG_BLOCK_TERRAFORM"
+            },
+            {
+                "trigger": "REGION_FLAG_DISABLE_COLLISIONS",
+                "contents": "REGION_FLAG_DISABLE_COLLISIONS"
+            },
+            {
+                "trigger": "REGION_FLAG_DISABLE_PHYSICS",
+                "contents": "REGION_FLAG_DISABLE_PHYSICS"
+            },
+            {
+                "trigger": "REGION_FLAG_FIXED_SUN",
+                "contents": "REGION_FLAG_FIXED_SUN"
+            },
+            {
+                "trigger": "REGION_FLAG_RESTRICT_PUSHOBJECT",
+                "contents": "REGION_FLAG_RESTRICT_PUSHOBJECT"
+            },
+            {
+                "trigger": "REGION_FLAG_SANDBOX",
+                "contents": "REGION_FLAG_SANDBOX"
+            },
+            {
+                "trigger": "REMOTE_DATA_CHANNEL",
+                "contents": "REMOTE_DATA_CHANNEL"
+            },
+            {
+                "trigger": "REMOTE_DATA_REPLY",
+                "contents": "REMOTE_DATA_REPLY"
+            },
+            {
+                "trigger": "REMOTE_DATA_REQUEST",
+                "contents": "REMOTE_DATA_REQUEST"
+            },
+            {
+                "trigger": "REVERSE",
+                "contents": "REVERSE"
+            },
+            {
+                "trigger": "ROTATE",
+                "contents": "ROTATE"
+            },
+            {
+                "trigger": "SCALE",
+                "contents": "SCALE"
+            },
+            {
+                "trigger": "SCRIPTED",
+                "contents": "SCRIPTED"
+            },
+            {
+                "trigger": "SMOOTH",
+                "contents": "SMOOTH"
+            },
+            {
+                "trigger": "SQRT2",
+                "contents": "SQRT2"
+            },
+            {
+                "trigger": "STATUS_BLOCK_GRAB",
+                "contents": "STATUS_BLOCK_GRAB"
+            },
+            {
+                "trigger": "STATUS_DIE_AT_EDGE",
+                "contents": "STATUS_DIE_AT_EDGE"
+            },
+            {
+                "trigger": "STATUS_PHANTOM",
+                "contents": "STATUS_PHANTOM"
+            },
+            {
+                "trigger": "STATUS_PHYSICS",
+                "contents": "STATUS_PHYSICS"
+            },
+            {
+                "trigger": "STATUS_RETURN_AT_EDGE",
+                "contents": "STATUS_RETURN_AT_EDGE"
+            },
+            {
+                "trigger": "STATUS_ROTATE_X",
+                "contents": "STATUS_ROTATE_X"
+            },
+            {
+                "trigger": "STATUS_ROTATE_Y",
+                "contents": "STATUS_ROTATE_Y"
+            },
+            {
+                "trigger": "STATUS_ROTATE_Z",
+                "contents": "STATUS_ROTATE_Z"
+            },
+            {
+                "trigger": "STATUS_SANDBOX",
+                "contents": "STATUS_SANDBOX"
+            },
+            {
+                "trigger": "STRING_TRIM",
+                "contents": "STRING_TRIM"
+            },
+            {
+                "trigger": "STRING_TRIM_HEAD",
+                "contents": "STRING_TRIM_HEAD"
+            },
+            {
+                "trigger": "STRING_TRIM_TAIL",
+                "contents": "STRING_TRIM_TAIL"
+            },
+            {
+                "trigger": "TRUE",
+                "contents": "TRUE"
+            },
+            {
+                "trigger": "TWO_PI",
+                "contents": "TWO_PI"
+            },
+            {
+                "trigger": "TYPE_FLOAT",
+                "contents": "TYPE_FLOAT"
+            },
+            {
+                "trigger": "TYPE_INTEGER",
+                "contents": "TYPE_INTEGER"
+            },
+            {
+                "trigger": "TYPE_INVALID",
+                "contents": "TYPE_INVALID"
+            },
+            {
+                "trigger": "TYPE_KEY",
+                "contents": "TYPE_KEY"
+            },
+            {
+                "trigger": "TYPE_ROTATION",
+                "contents": "TYPE_ROTATION"
+            },
+            {
+                "trigger": "TYPE_STRING",
+                "contents": "TYPE_STRING"
+            },
+            {
+                "trigger": "TYPE_VECTOR",
+                "contents": "TYPE_VECTOR"
+            },
+            {
+                "trigger": "VEHICLE_ANGULAR_DEFLECTION_EFFICIENCY",
+                "contents": "VEHICLE_ANGULAR_DEFLECTION_EFFICIENCY"
+            },
+            {
+                "trigger": "VEHICLE_ANGULAR_DEFLECTION_TIMESCALE",
+                "contents": "VEHICLE_ANGULAR_DEFLECTION_TIMESCALE"
+            },
+            {
+                "trigger": "VEHICLE_ANGULAR_FRICTION_TIMESCALE",
+                "contents": "VEHICLE_ANGULAR_FRICTION_TIMESCALE"
+            },
+            {
+                "trigger": "VEHICLE_ANGULAR_MOTOR_DECAY_TIMESCALE",
+                "contents": "VEHICLE_ANGULAR_MOTOR_DECAY_TIMESCALE"
+            },
+            {
+                "trigger": "VEHICLE_ANGULAR_MOTOR_DIRECTION",
+                "contents": "VEHICLE_ANGULAR_MOTOR_DIRECTION"
+            },
+            {
+                "trigger": "VEHICLE_ANGULAR_MOTOR_TIMESCALE",
+                "contents": "VEHICLE_ANGULAR_MOTOR_TIMESCALE"
+            },
+            {
+                "trigger": "VEHICLE_BANKING_EFFICIENCY",
+                "contents": "VEHICLE_BANKING_EFFICIENCY"
+            },
+            {
+                "trigger": "VEHICLE_BANKING_MIX",
+                "contents": "VEHICLE_BANKING_MIX"
+            },
+            {
+                "trigger": "VEHICLE_BANKING_TIMESCALE",
+                "contents": "VEHICLE_BANKING_TIMESCALE"
+            },
+            {
+                "trigger": "VEHICLE_BUOYANCY",
+                "contents": "VEHICLE_BUOYANCY"
+            },
+            {
+                "trigger": "VEHICLE_FLAG_CAMERA_DECOUPLED",
+                "contents": "VEHICLE_FLAG_CAMERA_DECOUPLED"
+            },
+            {
+                "trigger": "VEHICLE_FLAG_HOVER_GLOBAL_HEIGHT",
+                "contents": "VEHICLE_FLAG_HOVER_GLOBAL_HEIGHT"
+            },
+            {
+                "trigger": "VEHICLE_FLAG_HOVER_TERRAIN_ONLY",
+                "contents": "VEHICLE_FLAG_HOVER_TERRAIN_ONLY"
+            },
+            {
+                "trigger": "VEHICLE_FLAG_HOVER_UP_ONLY",
+                "contents": "VEHICLE_FLAG_HOVER_UP_ONLY"
+            },
+            {
+                "trigger": "VEHICLE_FLAG_HOVER_WATER_ONLY",
+                "contents": "VEHICLE_FLAG_HOVER_WATER_ONLY"
+            },
+            {
+                "trigger": "VEHICLE_FLAG_LIMIT_MOTOR_UP",
+                "contents": "VEHICLE_FLAG_LIMIT_MOTOR_UP"
+            },
+            {
+                "trigger": "VEHICLE_FLAG_LIMIT_ROLL_ONLY",
+                "contents": "VEHICLE_FLAG_LIMIT_ROLL_ONLY"
+            },
+            {
+                "trigger": "VEHICLE_FLAG_MOUSELOOK_BANK",
+                "contents": "VEHICLE_FLAG_MOUSELOOK_BANK"
+            },
+            {
+                "trigger": "VEHICLE_FLAG_MOUSELOOK_STEER",
+                "contents": "VEHICLE_FLAG_MOUSELOOK_STEER"
+            },
+            {
+                "trigger": "VEHICLE_FLAG_NO_DEFLECTION_UP",
+                "contents": "VEHICLE_FLAG_NO_DEFLECTION_UP"
+            },
+            {
+                "trigger": "VEHICLE_HOVER_EFFICIENCY",
+                "contents": "VEHICLE_HOVER_EFFICIENCY"
+            },
+            {
+                "trigger": "VEHICLE_HOVER_HEIGHT",
+                "contents": "VEHICLE_HOVER_HEIGHT"
+            },
+            {
+                "trigger": "VEHICLE_HOVER_TIMESCALE",
+                "contents": "VEHICLE_HOVER_TIMESCALE"
+            },
+            {
+                "trigger": "VEHICLE_LINEAR_DEFLECTION_EFFICIENCY",
+                "contents": "VEHICLE_LINEAR_DEFLECTION_EFFICIENCY"
+            },
+            {
+                "trigger": "VEHICLE_LINEAR_DEFLECTION_TIMESCALE",
+                "contents": "VEHICLE_LINEAR_DEFLECTION_TIMESCALE"
+            },
+            {
+                "trigger": "VEHICLE_LINEAR_FRICTION_TIMESCALE",
+                "contents": "VEHICLE_LINEAR_FRICTION_TIMESCALE"
+            },
+            {
+                "trigger": "VEHICLE_LINEAR_MOTOR_DECAY_TIMESCALE",
+                "contents": "VEHICLE_LINEAR_MOTOR_DECAY_TIMESCALE"
+            },
+            {
+                "trigger": "VEHICLE_LINEAR_MOTOR_DIRECTION",
+                "contents": "VEHICLE_LINEAR_MOTOR_DIRECTION"
+            },
+            {
+                "trigger": "VEHICLE_LINEAR_MOTOR_OFFSET",
+                "contents": "VEHICLE_LINEAR_MOTOR_OFFSET"
+            },
+            {
+                "trigger": "VEHICLE_LINEAR_MOTOR_TIMESCALE",
+                "contents": "VEHICLE_LINEAR_MOTOR_TIMESCALE"
+            },
+            {
+                "trigger": "VEHICLE_REFERENCE_FRAME",
+                "contents": "VEHICLE_REFERENCE_FRAME"
+            },
+            {
+                "trigger": "VEHICLE_TYPE_AIRPLANE",
+                "contents": "VEHICLE_TYPE_AIRPLANE"
+            },
+            {
+                "trigger": "VEHICLE_TYPE_BALLOON",
+                "contents": "VEHICLE_TYPE_BALLOON"
+            },
+            {
+                "trigger": "VEHICLE_TYPE_BOAT",
+                "contents": "VEHICLE_TYPE_BOAT"
+            },
+            {
+                "trigger": "VEHICLE_TYPE_CAR",
+                "contents": "VEHICLE_TYPE_CAR"
+            },
+            {
+                "trigger": "VEHICLE_TYPE_NONE",
+                "contents": "VEHICLE_TYPE_NONE"
+            },
+            {
+                "trigger": "VEHICLE_TYPE_SLED",
+                "contents": "VEHICLE_TYPE_SLED"
+            },
+            {
+                "trigger": "VEHICLE_VERTICAL_ATTRACTION_EFFICIENCY",
+                "contents": "VEHICLE_VERTICAL_ATTRACTION_EFFICIENCY"
+            },
+            {
+                "trigger": "VEHICLE_VERTICAL_ATTRACTION_TIMESCALE",
+                "contents": "VEHICLE_VERTICAL_ATTRACTION_TIMESCALE"
+            },
+            {
+                "trigger": "ZERO_ROTATION",
+                "contents": "ZERO_ROTATION"
+            },
+            {
+                "trigger": "ZERO_VECTOR",
+                "contents": "ZERO_VECTOR"
+            },
+            {
+                "trigger": "at_rot_target(integer number, rotation target_rotation, rotation our_rotation)",
+                "contents": "at_rot_target(integer number, rotation target_rotation, rotation our_rotation)"
+            },
+            {
+                "trigger": "at_target(integer number, vector target_position, vector our_position)",
+                "contents": "at_target(integer number, vector target_position, vector our_position)"
+            },
+            {
+                "trigger": "attach(key attached)",
+                "contents": "attach(key attached)"
+            },
+            {
+                "trigger": "changed(integer changed)",
+                "contents": "changed(integer changed)"
+            },
+            {
+                "trigger": "collision(integer total_number)",
+                "contents": "collision(integer total_number)"
+            },
+            {
+                "trigger": "collision_end(integer total_number)",
+                "contents": "collision_end(integer total_number)"
+            },
+            {
+                "trigger": "collision_start(integer total_number)",
+                "contents": "collision_start(integer total_number)"
+            },
+            {
+                "trigger": "control(key name, integer levels, integer edges)",
+                "contents": "control(key name, integer levels, integer edges)"
+            },
+            {
+                "trigger": "dataserver(key requested, string data)",
+                "contents": "dataserver(key requested, string data)"
+            },
+            {
+                "trigger": "default",
+                "contents": "default"
+            },
+            {
+                "trigger": "do",
+                "contents": "do"
+            },
+            {
+                "trigger": "else",
+                "contents": "else"
+            },
+            {
+                "trigger": "email(string time, string address, string subject, string body, integer remaining)",
+                "contents": "email(string time, string address, string subject, string body, integer remaining)"
+            },
+            {
+                "trigger": "float ",
+                "contents": "float "
+            },
+            {
+                "trigger": "for",
+                "contents": "for"
+            },
+            {
+                "trigger": "function ",
+                "contents": "function "
+            },
+            {
+                "trigger": "http_response(key request_id, integer status, list metadata, string body)",
+                "contents": "http_response(key request_id, integer status, list metadata, string body)"
+            },
+            {
+                "trigger": "if",
+                "contents": "if"
+            },
+            {
+                "trigger": "integer ",
+                "contents": "integer "
+            },
+            {
+                "trigger": "jump",
+                "contents": "jump"
+            },
+            {
+                "trigger": "key ",
+                "contents": "key "
+            },
+            {
+                "trigger": "land_collision(vector position)",
+                "contents": "land_collision(vector position)"
+            },
+            {
+                "trigger": "land_collision_end(vector position)",
+                "contents": "land_collision_end(vector position)"
+            },
+            {
+                "trigger": "land_collision_start(vector position)",
+                "contents": "land_collision_start(vector position)"
+            },
+            {
+                "trigger": "link_message(integer sender_number, integer number, string message, key id)",
+                "contents": "link_message(integer sender_number, integer number, string message, key id)"
+            },
+            {
+                "trigger": "list ",
+                "contents": "list "
+            },
+            {
+                "trigger": "listen(integer channel, string name, key id, string message)",
+                "contents": "listen(integer channel, string name, key id, string message)"
+            },
+            {
+                "trigger": "llAbs((integer) val)",
+                "contents": "llAbs((integer) val)"
+            },
+            {
+                "trigger": "llAcos((float) val)",
+                "contents": "llAcos((float) val)"
+            },
+            {
+                "trigger": "llAddToLandPassList((key) avatar, (float) hours)",
+                "contents": "llAddToLandPassList((key) avatar, (float) hours)"
+            },
+            {
+                "trigger": "llAdjustSoundVolume((float) volume)",
+                "contents": "llAdjustSoundVolume((float) volume)"
+            },
+            {
+                "trigger": "llAllowInventoryDrop((integer) add)",
+                "contents": "llAllowInventoryDrop((integer) add)"
+            },
+            {
+                "trigger": "llAngleBetween((rotation) a, (rotation) b)",
+                "contents": "llAngleBetween((rotation) a, (rotation) b)"
+            },
+            {
+                "trigger": "llApplyImpulse((vector) force, (integer) local)",
+                "contents": "llApplyImpulse((vector) force, (integer) local)"
+            },
+            {
+                "trigger": "llApplyRotationalImpulse((vector) force, (integer) local)",
+                "contents": "llApplyRotationalImpulse((vector) force, (integer) local)"
+            },
+            {
+                "trigger": "llAsin((float) val)",
+                "contents": "llAsin((float) val)"
+            },
+            {
+                "trigger": "llAtan2((float) y, (float) x)",
+                "contents": "llAtan2((float) y, (float) x)"
+            },
+            {
+                "trigger": "llAttachToAvatar((key) avatar, (integer) attachment)",
+                "contents": "llAttachToAvatar((key) avatar, (integer) attachment)"
+            },
+            {
+                "trigger": "llAvatarOnSitTarget()",
+                "contents": "llAvatarOnSitTarget()"
+            },
+            {
+                "trigger": "llAxes2Rot((vector) fwd, (vector) left, (vector) up)",
+                "contents": "llAxes2Rot((vector) fwd, (vector) left, (vector) up)"
+            },
+            {
+                "trigger": "llAxisAngle2Rot((vector) axis, (float) angle)",
+                "contents": "llAxisAngle2Rot((vector) axis, (float) angle)"
+            },
+            {
+                "trigger": "llBase64ToString((string) str)",
+                "contents": "llBase64ToString((string) str)"
+            },
+            {
+                "trigger": "llBreakAllLinks()",
+                "contents": "llBreakAllLinks()"
+            },
+            {
+                "trigger": "llBreakLink((integer) linknum)",
+                "contents": "llBreakLink((integer) linknum)"
+            },
+            {
+                "trigger": "llCSV2List((string) src)",
+                "contents": "llCSV2List((string) src)"
+            },
+            {
+                "trigger": "llCeil((float) val)",
+                "contents": "llCeil((float) val)"
+            },
+            {
+                "trigger": "llClearCameraParams()",
+                "contents": "llClearCameraParams()"
+            },
+            {
+                "trigger": "llCloseRemoteDataChannel((key) channel)",
+                "contents": "llCloseRemoteDataChannel((key) channel)"
+            },
+            {
+                "trigger": "llCloud((vector) offset)",
+                "contents": "llCloud((vector) offset)"
+            },
+            {
+                "trigger": "llCollisionFilter((string) name, (key) id, (integer) accept)",
+                "contents": "llCollisionFilter((string) name, (key) id, (integer) accept)"
+            },
+            {
+                "trigger": "llCollisionSound((string) impact_sound, (float) impact_volume)",
+                "contents": "llCollisionSound((string) impact_sound, (float) impact_volume)"
+            },
+            {
+                "trigger": "llCollisionSprite((string) impact_sprite)",
+                "contents": "llCollisionSprite((string) impact_sprite)"
+            },
+            {
+                "trigger": "llCos((float) theta)",
+                "contents": "llCos((float) theta)"
+            },
+            {
+                "trigger": "llCreateLink((key) target, (integer) parent)",
+                "contents": "llCreateLink((key) target, (integer) parent)"
+            },
+            {
+                "trigger": "llDeleteSubList((list) src, (integer) start, (integer) end)",
+                "contents": "llDeleteSubList((list) src, (integer) start, (integer) end)"
+            },
+            {
+                "trigger": "llDeleteSubString((string) src, (integer) start, (integer) end)",
+                "contents": "llDeleteSubString((string) src, (integer) start, (integer) end)"
+            },
+            {
+                "trigger": "llDetachFromAvatar((key) avatar)",
+                "contents": "llDetachFromAvatar((key) avatar)"
+            },
+            {
+                "trigger": "llDetectedGrab((integer) number)",
+                "contents": "llDetectedGrab((integer) number)"
+            },
+            {
+                "trigger": "llDetectedGroup((integer) number)",
+                "contents": "llDetectedGroup((integer) number)"
+            },
+            {
+                "trigger": "llDetectedKey((integer) number)",
+                "contents": "llDetectedKey((integer) number)"
+            },
+            {
+                "trigger": "llDetectedLinkNumber((integer) number)",
+                "contents": "llDetectedLinkNumber((integer) number)"
+            },
+            {
+                "trigger": "llDetectedName((integer) number)",
+                "contents": "llDetectedName((integer) number)"
+            },
+            {
+                "trigger": "llDetectedOwner((integer) number)",
+                "contents": "llDetectedOwner((integer) number)"
+            },
+            {
+                "trigger": "llDetectedPos((integer) number)",
+                "contents": "llDetectedPos((integer) number)"
+            },
+            {
+                "trigger": "llDetectedRot((integer) number)",
+                "contents": "llDetectedRot((integer) number)"
+            },
+            {
+                "trigger": "llDetectedType((integer) number)",
+                "contents": "llDetectedType((integer) number)"
+            },
+            {
+                "trigger": "llDetectedVel((integer) number)",
+                "contents": "llDetectedVel((integer) number)"
+            },
+            {
+                "trigger": "llDialog((key) avatar, (string) message, (list) buttons, (integer) channel)",
+                "contents": "llDialog((key) avatar, (string) message, (list) buttons, (integer) channel)"
+            },
+            {
+                "trigger": "llDie()",
+                "contents": "llDie()"
+            },
+            {
+                "trigger": "llDumpList2String((list) src, (string) separator)",
+                "contents": "llDumpList2String((list) src, (string) separator)"
+            },
+            {
+                "trigger": "llEdgeOfWorld((vector) pos, (vector) dir)",
+                "contents": "llEdgeOfWorld((vector) pos, (vector) dir)"
+            },
+            {
+                "trigger": "llEjectFromLand((key) pest)",
+                "contents": "llEjectFromLand((key) pest)"
+            },
+            {
+                "trigger": "llEmail((string) address, (string) subject, (string) message)",
+                "contents": "llEmail((string) address, (string) subject, (string) message)"
+            },
+            {
+                "trigger": "llEscapeURL((string) url)",
+                "contents": "llEscapeURL((string) url)"
+            },
+            {
+                "trigger": "llEuler2Rot((vector) vec)",
+                "contents": "llEuler2Rot((vector) vec)"
+            },
+            {
+                "trigger": "llFabs((float) val)",
+                "contents": "llFabs((float) val)"
+            },
+            {
+                "trigger": "llFloor((float) val)",
+                "contents": "llFloor((float) val)"
+            },
+            {
+                "trigger": "llForceMouselook((integer) mouselook)",
+                "contents": "llForceMouselook((integer) mouselook)"
+            },
+            {
+                "trigger": "llFrand((float) mag)",
+                "contents": "llFrand((float) mag)"
+            },
+            {
+                "trigger": "llGetAccel()",
+                "contents": "llGetAccel()"
+            },
+            {
+                "trigger": "llGetAgentInfo((key) id)",
+                "contents": "llGetAgentInfo((key) id)"
+            },
+            {
+                "trigger": "llGetAgentSize((key) id)",
+                "contents": "llGetAgentSize((key) id)"
+            },
+            {
+                "trigger": "llGetAlpha((integer) face)",
+                "contents": "llGetAlpha((integer) face)"
+            },
+            {
+                "trigger": "llGetAndResetTime()",
+                "contents": "llGetAndResetTime()"
+            },
+            {
+                "trigger": "llGetAnimation((key) id)",
+                "contents": "llGetAnimation((key) id)"
+            },
+            {
+                "trigger": "llGetAnimationList((key) id)",
+                "contents": "llGetAnimationList((key) id)"
+            },
+            {
+                "trigger": "llGetAttached()",
+                "contents": "llGetAttached()"
+            },
+            {
+                "trigger": "llGetBoundingBox((key) object)",
+                "contents": "llGetBoundingBox((key) object)"
+            },
+            {
+                "trigger": "llGetCameraPos()",
+                "contents": "llGetCameraPos()"
+            },
+            {
+                "trigger": "llGetCameraRot()",
+                "contents": "llGetCameraRot()"
+            },
+            {
+                "trigger": "llGetCenterOfMass()",
+                "contents": "llGetCenterOfMass()"
+            },
+            {
+                "trigger": "llGetColor((integer) face)",
+                "contents": "llGetColor((integer) face)"
+            },
+            {
+                "trigger": "llGetCreator()",
+                "contents": "llGetCreator()"
+            },
+            {
+                "trigger": "llGetDate()",
+                "contents": "llGetDate()"
+            },
+            {
+                "trigger": "llGetEnergy()",
+                "contents": "llGetEnergy()"
+            },
+            {
+                "trigger": "llGetForce()",
+                "contents": "llGetForce()"
+            },
+            {
+                "trigger": "llGetFreeMemory()",
+                "contents": "llGetFreeMemory()"
+            },
+            {
+                "trigger": "llGetGMTclock()",
+                "contents": "llGetGMTclock()"
+            },
+            {
+                "trigger": "llGetGeometricCenter()",
+                "contents": "llGetGeometricCenter()"
+            },
+            {
+                "trigger": "llGetInventoryCreator((string) name)",
+                "contents": "llGetInventoryCreator((string) name)"
+            },
+            {
+                "trigger": "llGetInventoryKey((string) name)",
+                "contents": "llGetInventoryKey((string) name)"
+            },
+            {
+                "trigger": "llGetInventoryName((integer) type, (integer) number)",
+                "contents": "llGetInventoryName((integer) type, (integer) number)"
+            },
+            {
+                "trigger": "llGetInventoryNumber((integer) type)",
+                "contents": "llGetInventoryNumber((integer) type)"
+            },
+            {
+                "trigger": "llGetInventoryPermMask((string) item, (integer) mask)",
+                "contents": "llGetInventoryPermMask((string) item, (integer) mask)"
+            },
+            {
+                "trigger": "llGetInventoryType((string) name)",
+                "contents": "llGetInventoryType((string) name)"
+            },
+            {
+                "trigger": "llGetKey()",
+                "contents": "llGetKey()"
+            },
+            {
+                "trigger": "llGetLandOwnerAt((vector) pos)",
+                "contents": "llGetLandOwnerAt((vector) pos)"
+            },
+            {
+                "trigger": "llGetLinkKey((integer) linknum)",
+                "contents": "llGetLinkKey((integer) linknum)"
+            },
+            {
+                "trigger": "llGetLinkName((integer) linknum)",
+                "contents": "llGetLinkName((integer) linknum)"
+            },
+            {
+                "trigger": "llGetLinkNumber()",
+                "contents": "llGetLinkNumber()"
+            },
+            {
+                "trigger": "llGetListEntryType((list) src, (integer) index)",
+                "contents": "llGetListEntryType((list) src, (integer) index)"
+            },
+            {
+                "trigger": "llGetListLength((list) src)",
+                "contents": "llGetListLength((list) src)"
+            },
+            {
+                "trigger": "llGetLocalPos()",
+                "contents": "llGetLocalPos()"
+            },
+            {
+                "trigger": "llGetLocalRot()",
+                "contents": "llGetLocalRot()"
+            },
+            {
+                "trigger": "llGetMass()",
+                "contents": "llGetMass()"
+            },
+            {
+                "trigger": "llGetNextEmail((string) address, (string) subject)",
+                "contents": "llGetNextEmail((string) address, (string) subject)"
+            },
+            {
+                "trigger": "llGetNotecardLine((string) name, (integer) line)",
+                "contents": "llGetNotecardLine((string) name, (integer) line)"
+            },
+            {
+                "trigger": "llGetNumberOfNotecardLines((string) name)",
+                "contents": "llGetNumberOfNotecardLines((string) name)"
+            },
+            {
+                "trigger": "llGetNumberOfPrims()",
+                "contents": "llGetNumberOfPrims()"
+            },
+            {
+                "trigger": "llGetNumberOfSides()",
+                "contents": "llGetNumberOfSides()"
+            },
+            {
+                "trigger": "llGetObjectDesc()",
+                "contents": "llGetObjectDesc()"
+            },
+            {
+                "trigger": "llGetObjectMass((key) id)",
+                "contents": "llGetObjectMass((key) id)"
+            },
+            {
+                "trigger": "llGetObjectName()",
+                "contents": "llGetObjectName()"
+            },
+            {
+                "trigger": "llGetObjectPermMask((integer) mask)",
+                "contents": "llGetObjectPermMask((integer) mask)"
+            },
+            {
+                "trigger": "llGetObjectPrimCount((key) id)",
+                "contents": "llGetObjectPrimCount((key) id)"
+            },
+            {
+                "trigger": "llGetOmega()",
+                "contents": "llGetOmega()"
+            },
+            {
+                "trigger": "llGetOwner()",
+                "contents": "llGetOwner()"
+            },
+            {
+                "trigger": "llGetOwnerKey((key) id)",
+                "contents": "llGetOwnerKey((key) id)"
+            },
+            {
+                "trigger": "llGetParcelDetails((vector) pos, (list) details)",
+                "contents": "llGetParcelDetails((vector) pos, (list) details)"
+            },
+            {
+                "trigger": "llGetParcelFlags((vector) pos)",
+                "contents": "llGetParcelFlags((vector) pos)"
+            },
+            {
+                "trigger": "llGetParcelMaxPrims((vector) pos, (integer) sim_wide)",
+                "contents": "llGetParcelMaxPrims((vector) pos, (integer) sim_wide)"
+            },
+            {
+                "trigger": "llGetParcelPrimCount((vector) pos, (integer) category, (integer) sim_wide)",
+                "contents": "llGetParcelPrimCount((vector) pos, (integer) category, (integer) sim_wide)"
+            },
+            {
+                "trigger": "llGetParcelPrimOwners((vector) pos)",
+                "contents": "llGetParcelPrimOwners((vector) pos)"
+            },
+            {
+                "trigger": "llGetPermissions()",
+                "contents": "llGetPermissions()"
+            },
+            {
+                "trigger": "llGetPermissionsKey()",
+                "contents": "llGetPermissionsKey()"
+            },
+            {
+                "trigger": "llGetPos()",
+                "contents": "llGetPos()"
+            },
+            {
+                "trigger": "llGetPrimitiveParams((list) parameters)",
+                "contents": "llGetPrimitiveParams((list) parameters)"
+            },
+            {
+                "trigger": "llGetRegionCorner()",
+                "contents": "llGetRegionCorner()"
+            },
+            {
+                "trigger": "llGetRegionFPS()",
+                "contents": "llGetRegionFPS()"
+            },
+            {
+                "trigger": "llGetRegionFlags()",
+                "contents": "llGetRegionFlags()"
+            },
+            {
+                "trigger": "llGetRegionName()",
+                "contents": "llGetRegionName()"
+            },
+            {
+                "trigger": "llGetRegionTimeDilation()",
+                "contents": "llGetRegionTimeDilation()"
+            },
+            {
+                "trigger": "llGetRootPosition()",
+                "contents": "llGetRootPosition()"
+            },
+            {
+                "trigger": "llGetRootRotation()",
+                "contents": "llGetRootRotation()"
+            },
+            {
+                "trigger": "llGetRot()",
+                "contents": "llGetRot()"
+            },
+            {
+                "trigger": "llGetScale()",
+                "contents": "llGetScale()"
+            },
+            {
+                "trigger": "llGetScriptName()",
+                "contents": "llGetScriptName()"
+            },
+            {
+                "trigger": "llGetScriptState((string) name)",
+                "contents": "llGetScriptState((string) name)"
+            },
+            {
+                "trigger": "llGetStartParameter()",
+                "contents": "llGetStartParameter()"
+            },
+            {
+                "trigger": "llGetStatus((integer) status)",
+                "contents": "llGetStatus((integer) status)"
+            },
+            {
+                "trigger": "llGetSubString((string) src, (integer) start, (integer) end)",
+                "contents": "llGetSubString((string) src, (integer) start, (integer) end)"
+            },
+            {
+                "trigger": "llGetSunDirection()",
+                "contents": "llGetSunDirection()"
+            },
+            {
+                "trigger": "llGetTexture((integer) face)",
+                "contents": "llGetTexture((integer) face)"
+            },
+            {
+                "trigger": "llGetTextureOffset((integer) side)",
+                "contents": "llGetTextureOffset((integer) side)"
+            },
+            {
+                "trigger": "llGetTextureRot((integer) side)",
+                "contents": "llGetTextureRot((integer) side)"
+            },
+            {
+                "trigger": "llGetTextureScale((integer) side)",
+                "contents": "llGetTextureScale((integer) side)"
+            },
+            {
+                "trigger": "llGetTime()",
+                "contents": "llGetTime()"
+            },
+            {
+                "trigger": "llGetTimeOfDay()",
+                "contents": "llGetTimeOfDay()"
+            },
+            {
+                "trigger": "llGetTimestamp()",
+                "contents": "llGetTimestamp()"
+            },
+            {
+                "trigger": "llGetTorque()",
+                "contents": "llGetTorque()"
+            },
+            {
+                "trigger": "llGetUnixTime()",
+                "contents": "llGetUnixTime()"
+            },
+            {
+                "trigger": "llGetVel()",
+                "contents": "llGetVel()"
+            },
+            {
+                "trigger": "llGetWallclock()",
+                "contents": "llGetWallclock()"
+            },
+            {
+                "trigger": "llGiveInventory((key) destination, (string) inventory)",
+                "contents": "llGiveInventory((key) destination, (string) inventory)"
+            },
+            {
+                "trigger": "llGiveInventoryList((key) destination, (string) category, (list) inventory)",
+                "contents": "llGiveInventoryList((key) destination, (string) category, (list) inventory)"
+            },
+            {
+                "trigger": "llGiveMoney((key) destination, (integer) amount)",
+                "contents": "llGiveMoney((key) destination, (integer) amount)"
+            },
+            {
+                "trigger": "llGround((vector) offset)",
+                "contents": "llGround((vector) offset)"
+            },
+            {
+                "trigger": "llGroundContour((vector) offset)",
+                "contents": "llGroundContour((vector) offset)"
+            },
+            {
+                "trigger": "llGroundNormal((vector) offset)",
+                "contents": "llGroundNormal((vector) offset)"
+            },
+            {
+                "trigger": "llGroundRepel((float) height, (integer) water, (float) tau)",
+                "contents": "llGroundRepel((float) height, (integer) water, (float) tau)"
+            },
+            {
+                "trigger": "llGroundSlope((vector) offset)",
+                "contents": "llGroundSlope((vector) offset)"
+            },
+            {
+                "trigger": "llHTTPRequest((string) url, (list) parameters, (string) body)",
+                "contents": "llHTTPRequest((string) url, (list) parameters, (string) body)"
+            },
+            {
+                "trigger": "llInsertString((string) dst, (integer) position, (string) src)",
+                "contents": "llInsertString((string) dst, (integer) position, (string) src)"
+            },
+            {
+                "trigger": "llInstantMessage((key) user, (string) message)",
+                "contents": "llInstantMessage((key) user, (string) message)"
+            },
+            {
+                "trigger": "llKey2Name((key) id)",
+                "contents": "llKey2Name((key) id)"
+            },
+            {
+                "trigger": "llList2CSV((list) src)",
+                "contents": "llList2CSV((list) src)"
+            },
+            {
+                "trigger": "llList2Float((list) src, (integer) index)",
+                "contents": "llList2Float((list) src, (integer) index)"
+            },
+            {
+                "trigger": "llList2Integer((list) src, (integer) index)",
+                "contents": "llList2Integer((list) src, (integer) index)"
+            },
+            {
+                "trigger": "llList2Key((list) src, (integer) index)",
+                "contents": "llList2Key((list) src, (integer) index)"
+            },
+            {
+                "trigger": "llList2List((list) src, (integer) start, (integer) end)",
+                "contents": "llList2List((list) src, (integer) start, (integer) end)"
+            },
+            {
+                "trigger": "llList2ListStrided((list) src, (integer) start, (integer) end, (integer) stride)",
+                "contents": "llList2ListStrided((list) src, (integer) start, (integer) end, (integer) stride)"
+            },
+            {
+                "trigger": "llList2Rot((list) src, (integer) index)",
+                "contents": "llList2Rot((list) src, (integer) index)"
+            },
+            {
+                "trigger": "llList2String((list) src, (integer) index)",
+                "contents": "llList2String((list) src, (integer) index)"
+            },
+            {
+                "trigger": "llList2Vector((list) src, (integer) index)",
+                "contents": "llList2Vector((list) src, (integer) index)"
+            },
+            {
+                "trigger": "llListFindList((list) src, (list) test)",
+                "contents": "llListFindList((list) src, (list) test)"
+            },
+            {
+                "trigger": "llListInsertList((list) dest, (list) src, (integer) pos)",
+                "contents": "llListInsertList((list) dest, (list) src, (integer) pos)"
+            },
+            {
+                "trigger": "llListRandomize((list) src, (integer) stride)",
+                "contents": "llListRandomize((list) src, (integer) stride)"
+            },
+            {
+                "trigger": "llListReplaceList((list) dest, (list) src, (integer) start, (integer) end)",
+                "contents": "llListReplaceList((list) dest, (list) src, (integer) start, (integer) end)"
+            },
+            {
+                "trigger": "llListSort((list) src, (integer) stride, (integer) ascending)",
+                "contents": "llListSort((list) src, (integer) stride, (integer) ascending)"
+            },
+            {
+                "trigger": "llListStatistics((integer) operation, (list) input)",
+                "contents": "llListStatistics((integer) operation, (list) input)"
+            },
+            {
+                "trigger": "llListen((integer) channel, (string) name, (key) id, (string) msg)",
+                "contents": "llListen((integer) channel, (string) name, (key) id, (string) msg)"
+            },
+            {
+                "trigger": "llListenControl((integer) number, (integer) active)",
+                "contents": "llListenControl((integer) number, (integer) active)"
+            },
+            {
+                "trigger": "llListenRemove((integer) number)",
+                "contents": "llListenRemove((integer) number)"
+            },
+            {
+                "trigger": "llLoadURL((key) avatar_id, (string) message, (string) url)",
+                "contents": "llLoadURL((key) avatar_id, (string) message, (string) url)"
+            },
+            {
+                "trigger": "llLog((float) val)",
+                "contents": "llLog((float) val)"
+            },
+            {
+                "trigger": "llLog10((float) val)",
+                "contents": "llLog10((float) val)"
+            },
+            {
+                "trigger": "llLookAt((vector) target, (float) strength, (float) damping)",
+                "contents": "llLookAt((vector) target, (float) strength, (float) damping)"
+            },
+            {
+                "trigger": "llLoopSound((string) sound, (float) volume)",
+                "contents": "llLoopSound((string) sound, (float) volume)"
+            },
+            {
+                "trigger": "llLoopSoundMaster((string) sound, (float) volume)",
+                "contents": "llLoopSoundMaster((string) sound, (float) volume)"
+            },
+            {
+                "trigger": "llLoopSoundSlave((string) sound, (float) volume)",
+                "contents": "llLoopSoundSlave((string) sound, (float) volume)"
+            },
+            {
+                "trigger": "llMD5String((string) str, (integer) nonce)",
+                "contents": "llMD5String((string) str, (integer) nonce)"
+            },
+            {
+                "trigger": "llMakeExplosion((integer) particles, (float) scale, (float) velocity, (float) lifetime, (float) arc, (string) texture, (vector) offset)",
+                "contents": "llMakeExplosion((integer) particles, (float) scale, (float) velocity, (float) lifetime, (float) arc, (string) texture, (vector) offset)"
+            },
+            {
+                "trigger": "llMakeFire((integer) particles, (float) scale, (float) velocity, (float) lifetime, (float) arc, (string) texture, (vector) offset)",
+                "contents": "llMakeFire((integer) particles, (float) scale, (float) velocity, (float) lifetime, (float) arc, (string) texture, (vector) offset)"
+            },
+            {
+                "trigger": "llMakeFountain((integer) particles, (float) scale, (float) velocity, (float) lifetime, (float) arc, (string) texture, (vector) offset)",
+                "contents": "llMakeFountain((integer) particles, (float) scale, (float) velocity, (float) lifetime, (float) arc, (string) texture, (vector) offset)"
+            },
+            {
+                "trigger": "llMakeSmoke((integer) particles, (float) scale, (float) velocity, (float) lifetime, (float) arc, (string) texture, (vector) offset)",
+                "contents": "llMakeSmoke((integer) particles, (float) scale, (float) velocity, (float) lifetime, (float) arc, (string) texture, (vector) offset)"
+            },
+            {
+                "trigger": "llMessageLinked((integer) linknum, (integer) num, (string) str, (key) id)",
+                "contents": "llMessageLinked((integer) linknum, (integer) num, (string) str, (key) id)"
+            },
+            {
+                "trigger": "llMinEventDelay((float) delay)",
+                "contents": "llMinEventDelay((float) delay)"
+            },
+            {
+                "trigger": "llModPow((integer) a, (integer) b, (integer) c)",
+                "contents": "llModPow((integer) a, (integer) b, (integer) c)"
+            },
+            {
+                "trigger": "llModifyLand((integer) action, (integer) size)",
+                "contents": "llModifyLand((integer) action, (integer) size)"
+            },
+            {
+                "trigger": "llMoveToTarget((vector) target, (float) tau)",
+                "contents": "llMoveToTarget((vector) target, (float) tau)"
+            },
+            {
+                "trigger": "llOffsetTexture((float) offset_s, (float) offset_t, (integer) face)",
+                "contents": "llOffsetTexture((float) offset_s, (float) offset_t, (integer) face)"
+            },
+            {
+                "trigger": "llOpenRemoteDataChannel()",
+                "contents": "llOpenRemoteDataChannel()"
+            },
+            {
+                "trigger": "llOverMyLand((key) id)",
+                "contents": "llOverMyLand((key) id)"
+            },
+            {
+                "trigger": "llOwnerSay((string) text)",
+                "contents": "llOwnerSay((string) text)"
+            },
+            {
+                "trigger": "llParcelMediaCommandList((list) command_list)",
+                "contents": "llParcelMediaCommandList((list) command_list)"
+            },
+            {
+                "trigger": "llParcelMediaQuery((list) query_list)",
+                "contents": "llParcelMediaQuery((list) query_list)"
+            },
+            {
+                "trigger": "llParseString2List((string) src, (list) separators, (list) spacers)",
+                "contents": "llParseString2List((string) src, (list) separators, (list) spacers)"
+            },
+            {
+                "trigger": "llParseStringKeepNulls((string) src, (list) separators, (list) spacers)",
+                "contents": "llParseStringKeepNulls((string) src, (list) separators, (list) spacers)"
+            },
+            {
+                "trigger": "llParticleSystem((list) parameters)",
+                "contents": "llParticleSystem((list) parameters)"
+            },
+            {
+                "trigger": "llPassCollisions((integer) pass)",
+                "contents": "llPassCollisions((integer) pass)"
+            },
+            {
+                "trigger": "llPassTouches((integer) pass)",
+                "contents": "llPassTouches((integer) pass)"
+            },
+            {
+                "trigger": "llPlaySound((string) sound, (float) volume)",
+                "contents": "llPlaySound((string) sound, (float) volume)"
+            },
+            {
+                "trigger": "llPlaySoundSlave((string) sound, (float) volume)",
+                "contents": "llPlaySoundSlave((string) sound, (float) volume)"
+            },
+            {
+                "trigger": "llPointAt((vector) pos)",
+                "contents": "llPointAt((vector) pos)"
+            },
+            {
+                "trigger": "llPow((float) base, (float) exp)",
+                "contents": "llPow((float) base, (float) exp)"
+            },
+            {
+                "trigger": "llPreloadSound((string) sound)",
+                "contents": "llPreloadSound((string) sound)"
+            },
+            {
+                "trigger": "llPushObject((key) id, (vector) impulse, (vector) angular_impulse, (integer) local)",
+                "contents": "llPushObject((key) id, (vector) impulse, (vector) angular_impulse, (integer) local)"
+            },
+            {
+                "trigger": "llRegionSay((integer) channel, (string) msg)",
+                "contents": "llRegionSay((integer) channel, (string) msg)"
+            },
+            {
+                "trigger": "llReleaseControls((key) avatar)",
+                "contents": "llReleaseControls((key) avatar)"
+            },
+            {
+                "trigger": "llRemoteDataReply((key) channel, (key) message_id, (string) sdata)",
+                "contents": "llRemoteDataReply((key) channel, (key) message_id, (string) sdata)"
+            },
+            {
+                "trigger": "llRemoteDataSetRegion()",
+                "contents": "llRemoteDataSetRegion()"
+            },
+            {
+                "trigger": "llRemoteLoadScript()",
+                "contents": "llRemoteLoadScript()"
+            },
+            {
+                "trigger": "llRemoteLoadScriptPin((key) target, (string) name, (integer) pin, (integer) running, (integer) param)",
+                "contents": "llRemoteLoadScriptPin((key) target, (string) name, (integer) pin, (integer) running, (integer) param)"
+            },
+            {
+                "trigger": "llRemoveInventory((string) inventory)",
+                "contents": "llRemoveInventory((string) inventory)"
+            },
+            {
+                "trigger": "llRemoveVehicleFlags((integer) flags)",
+                "contents": "llRemoveVehicleFlags((integer) flags)"
+            },
+            {
+                "trigger": "llRequestAgentData((key) id, (integer) data)",
+                "contents": "llRequestAgentData((key) id, (integer) data)"
+            },
+            {
+                "trigger": "llRequestInventoryData((string) name)",
+                "contents": "llRequestInventoryData((string) name)"
+            },
+            {
+                "trigger": "llRequestPermissions((key) avatar, (integer) perm)",
+                "contents": "llRequestPermissions((key) avatar, (integer) perm)"
+            },
+            {
+                "trigger": "llRequestSimulatorData((string) sim_name, (integer) data)",
+                "contents": "llRequestSimulatorData((string) sim_name, (integer) data)"
+            },
+            {
+                "trigger": "llResetOtherScript((string) name)",
+                "contents": "llResetOtherScript((string) name)"
+            },
+            {
+                "trigger": "llResetScript()",
+                "contents": "llResetScript()"
+            },
+            {
+                "trigger": "llResetTime()",
+                "contents": "llResetTime()"
+            },
+            {
+                "trigger": "llRezAtRoot((string) inventory, (vector) pos, (vector) vel, (rotation) rot, (integer) param)",
+                "contents": "llRezAtRoot((string) inventory, (vector) pos, (vector) vel, (rotation) rot, (integer) param)"
+            },
+            {
+                "trigger": "llRezObject((string) inventory, (vector) pos, (vector) vel, (rotation) rot, (integer) param)",
+                "contents": "llRezObject((string) inventory, (vector) pos, (vector) vel, (rotation) rot, (integer) param)"
+            },
+            {
+                "trigger": "llRot2Angle((rotation) rot)",
+                "contents": "llRot2Angle((rotation) rot)"
+            },
+            {
+                "trigger": "llRot2Axis((rotation) rot)",
+                "contents": "llRot2Axis((rotation) rot)"
+            },
+            {
+                "trigger": "llRot2Euler((rotation) rot)",
+                "contents": "llRot2Euler((rotation) rot)"
+            },
+            {
+                "trigger": "llRot2Fwd((rotation) rot)",
+                "contents": "llRot2Fwd((rotation) rot)"
+            },
+            {
+                "trigger": "llRot2Left((rotation) rot)",
+                "contents": "llRot2Left((rotation) rot)"
+            },
+            {
+                "trigger": "llRot2Up((rotation) rot)",
+                "contents": "llRot2Up((rotation) rot)"
+            },
+            {
+                "trigger": "llRotBetween((vector) a, (vector) b)",
+                "contents": "llRotBetween((vector) a, (vector) b)"
+            },
+            {
+                "trigger": "llRotLookAt((rotation) rot, (float) strength, (float) damping)",
+                "contents": "llRotLookAt((rotation) rot, (float) strength, (float) damping)"
+            },
+            {
+                "trigger": "llRotTarget((rotation) rot, (float) error)",
+                "contents": "llRotTarget((rotation) rot, (float) error)"
+            },
+            {
+                "trigger": "llRotTargetRemove((integer) number)",
+                "contents": "llRotTargetRemove((integer) number)"
+            },
+            {
+                "trigger": "llRotateTexture((float) radians, (integer) face)",
+                "contents": "llRotateTexture((float) radians, (integer) face)"
+            },
+            {
+                "trigger": "llRound((float) val)",
+                "contents": "llRound((float) val)"
+            },
+            {
+                "trigger": "llSameGroup((key) id)",
+                "contents": "llSameGroup((key) id)"
+            },
+            {
+                "trigger": "llSay((integer) channel, (string) text)",
+                "contents": "llSay((integer) channel, (string) text)"
+            },
+            {
+                "trigger": "llScaleTexture((integer) scale_s, (integer) scale_t, (integer) face)",
+                "contents": "llScaleTexture((integer) scale_s, (integer) scale_t, (integer) face)"
+            },
+            {
+                "trigger": "llScriptDanger((vector) pos)",
+                "contents": "llScriptDanger((vector) pos)"
+            },
+            {
+                "trigger": "llSendRemoteData((string) dest, (integer) idata, (string) sdata)",
+                "contents": "llSendRemoteData((string) dest, (integer) idata, (string) sdata)"
+            },
+            {
+                "trigger": "llSensor((string) name, (key) id, (integer) type, (float) range, (float) arc)",
+                "contents": "llSensor((string) name, (key) id, (integer) type, (float) range, (float) arc)"
+            },
+            {
+                "trigger": "llSensorRemove()",
+                "contents": "llSensorRemove()"
+            },
+            {
+                "trigger": "llSensorRepeat((string) name, (key) id, (integer) type, (float) range, (float) arc, (float) rate)",
+                "contents": "llSensorRepeat((string) name, (key) id, (integer) type, (float) range, (float) arc, (float) rate)"
+            },
+            {
+                "trigger": "llSetAlpha((float) alpha, (integer) face)",
+                "contents": "llSetAlpha((float) alpha, (integer) face)"
+            },
+            {
+                "trigger": "llSetBuoyancy((float) buoyancy)",
+                "contents": "llSetBuoyancy((float) buoyancy)"
+            },
+            {
+                "trigger": "llSetCameraAtOffset((vector) offset)",
+                "contents": "llSetCameraAtOffset((vector) offset)"
+            },
+            {
+                "trigger": "llSetCameraEyeOffset((vector) offset)",
+                "contents": "llSetCameraEyeOffset((vector) offset)"
+            },
+            {
+                "trigger": "llSetCameraParams((list) rules)",
+                "contents": "llSetCameraParams((list) rules)"
+            },
+            {
+                "trigger": "llSetColor((vector) color, (integer) face)",
+                "contents": "llSetColor((vector) color, (integer) face)"
+            },
+            {
+                "trigger": "llSetDamage((float) damage)",
+                "contents": "llSetDamage((float) damage)"
+            },
+            {
+                "trigger": "llSetForce((vector) force, (integer) local)",
+                "contents": "llSetForce((vector) force, (integer) local)"
+            },
+            {
+                "trigger": "llSetForceAndTorque((vector) force, (vector) torque, (integer) local)",
+                "contents": "llSetForceAndTorque((vector) force, (vector) torque, (integer) local)"
+            },
+            {
+                "trigger": "llSetHoverHeight((float) height, (float) water, (float) tau)",
+                "contents": "llSetHoverHeight((float) height, (float) water, (float) tau)"
+            },
+            {
+                "trigger": "llSetLinkAlpha((integer) linknumber, (float) alpha, (integer) face)",
+                "contents": "llSetLinkAlpha((integer) linknumber, (float) alpha, (integer) face)"
+            },
+            {
+                "trigger": "llSetLinkColor((integer) linknumber, (vector) color, (integer) face)",
+                "contents": "llSetLinkColor((integer) linknumber, (vector) color, (integer) face)"
+            },
+            {
+                "trigger": "llSetLinkPrimitiveParams((integer) linknumber, (list) rules)",
+                "contents": "llSetLinkPrimitiveParams((integer) linknumber, (list) rules)"
+            },
+            {
+                "trigger": "llSetLinkTexture((integer) link_pos, (string) texture, (integer) face)",
+                "contents": "llSetLinkTexture((integer) link_pos, (string) texture, (integer) face)"
+            },
+            {
+                "trigger": "llSetLocalRot((rotation) rot)",
+                "contents": "llSetLocalRot((rotation) rot)"
+            },
+            {
+                "trigger": "llSetObjectDesc((string) description)",
+                "contents": "llSetObjectDesc((string) description)"
+            },
+            {
+                "trigger": "llSetObjectName((string) name)",
+                "contents": "llSetObjectName((string) name)"
+            },
+            {
+                "trigger": "llSetParcelMusicURL((string) url)",
+                "contents": "llSetParcelMusicURL((string) url)"
+            },
+            {
+                "trigger": "llSetPayPrice((integer) default_price, (list) quick_pay_buttons)",
+                "contents": "llSetPayPrice((integer) default_price, (list) quick_pay_buttons)"
+            },
+            {
+                "trigger": "llSetPos((vector) pos)",
+                "contents": "llSetPos((vector) pos)"
+            },
+            {
+                "trigger": "llSetPrimitiveParams((list) rules)",
+                "contents": "llSetPrimitiveParams((list) rules)"
+            },
+            {
+                "trigger": "llSetRemoteScriptAccessPin((integer) pin)",
+                "contents": "llSetRemoteScriptAccessPin((integer) pin)"
+            },
+            {
+                "trigger": "llSetRot((rotation) rot)",
+                "contents": "llSetRot((rotation) rot)"
+            },
+            {
+                "trigger": "llSetScale((vector) scale)",
+                "contents": "llSetScale((vector) scale)"
+            },
+            {
+                "trigger": "llSetScriptState((string) name, (integer) run)",
+                "contents": "llSetScriptState((string) name, (integer) run)"
+            },
+            {
+                "trigger": "llSetSitText((string) text)",
+                "contents": "llSetSitText((string) text)"
+            },
+            {
+                "trigger": "llSetSoundQueueing((integer) queue)",
+                "contents": "llSetSoundQueueing((integer) queue)"
+            },
+            {
+                "trigger": "llSetStatus((integer) status, (integer) value)",
+                "contents": "llSetStatus((integer) status, (integer) value)"
+            },
+            {
+                "trigger": "llSetText((string) text, (vector) color, (float) alpha)",
+                "contents": "llSetText((string) text, (vector) color, (float) alpha)"
+            },
+            {
+                "trigger": "llSetTexture((string) texture, (integer) face)",
+                "contents": "llSetTexture((string) texture, (integer) face)"
+            },
+            {
+                "trigger": "llSetTextureAnim((integer) mode, (integer) face, (integer) sizex, (integer) sizey, (float) start, (float) length, (float) rate)",
+                "contents": "llSetTextureAnim((integer) mode, (integer) face, (integer) sizex, (integer) sizey, (float) start, (float) length, (float) rate)"
+            },
+            {
+                "trigger": "llSetTimerEvent((float) sec)",
+                "contents": "llSetTimerEvent((float) sec)"
+            },
+            {
+                "trigger": "llSetTorque((vector) torque, (integer) local)",
+                "contents": "llSetTorque((vector) torque, (integer) local)"
+            },
+            {
+                "trigger": "llSetTouchText((string) text)",
+                "contents": "llSetTouchText((string) text)"
+            },
+            {
+                "trigger": "llSetVehicleFlags((integer) flags)",
+                "contents": "llSetVehicleFlags((integer) flags)"
+            },
+            {
+                "trigger": "llSetVehicleFloatParam((integer) param_name, (float) param_value)",
+                "contents": "llSetVehicleFloatParam((integer) param_name, (float) param_value)"
+            },
+            {
+                "trigger": "llSetVehicleRotationParam((integer) param_name, (rotation) param_value)",
+                "contents": "llSetVehicleRotationParam((integer) param_name, (rotation) param_value)"
+            },
+            {
+                "trigger": "llSetVehicleType((integer) type)",
+                "contents": "llSetVehicleType((integer) type)"
+            },
+            {
+                "trigger": "llSetVehicleVectorParam((integer) param_name, (vector) param_value)",
+                "contents": "llSetVehicleVectorParam((integer) param_name, (vector) param_value)"
+            },
+            {
+                "trigger": "llShout((integer) channel, (string) text)",
+                "contents": "llShout((integer) channel, (string) text)"
+            },
+            {
+                "trigger": "llSin((float) theta)",
+                "contents": "llSin((float) theta)"
+            },
+            {
+                "trigger": "llSitTarget((vector) offset, (rotation) rot)",
+                "contents": "llSitTarget((vector) offset, (rotation) rot)"
+            },
+            {
+                "trigger": "llSleep((float) sec)",
+                "contents": "llSleep((float) sec)"
+            },
+            {
+                "trigger": "llSqrt((float) val)",
+                "contents": "llSqrt((float) val)"
+            },
+            {
+                "trigger": "llStartAnimation((string) anim)",
+                "contents": "llStartAnimation((string) anim)"
+            },
+            {
+                "trigger": "llStopAnimation((string) anim)",
+                "contents": "llStopAnimation((string) anim)"
+            },
+            {
+                "trigger": "llStopHover()",
+                "contents": "llStopHover()"
+            },
+            {
+                "trigger": "llStopLookAt()",
+                "contents": "llStopLookAt()"
+            },
+            {
+                "trigger": "llStopMoveToTarget()",
+                "contents": "llStopMoveToTarget()"
+            },
+            {
+                "trigger": "llStopPointAt()",
+                "contents": "llStopPointAt()"
+            },
+            {
+                "trigger": "llStopSound()",
+                "contents": "llStopSound()"
+            },
+            {
+                "trigger": "llStringLength((string) src)",
+                "contents": "llStringLength((string) src)"
+            },
+            {
+                "trigger": "llStringToBase64((string) str)",
+                "contents": "llStringToBase64((string) str)"
+            },
+            {
+                "trigger": "llStringTrim((string) src, (integer) trim_type)",
+                "contents": "llStringTrim((string) src, (integer) trim_type)"
+            },
+            {
+                "trigger": "llSubStringIndex((string) source, (string) pattern)",
+                "contents": "llSubStringIndex((string) source, (string) pattern)"
+            },
+            {
+                "trigger": "llTakeControls((integer) controls, (integer) accept, (integer) pass_on)",
+                "contents": "llTakeControls((integer) controls, (integer) accept, (integer) pass_on)"
+            },
+            {
+                "trigger": "llTan((float) theta)",
+                "contents": "llTan((float) theta)"
+            },
+            {
+                "trigger": "llTarget((vector) position, (float) range)",
+                "contents": "llTarget((vector) position, (float) range)"
+            },
+            {
+                "trigger": "llTargetOmega((vector) axis, (float) spinrate, (float) gain)",
+                "contents": "llTargetOmega((vector) axis, (float) spinrate, (float) gain)"
+            },
+            {
+                "trigger": "llTargetRemove((integer) tnumber)",
+                "contents": "llTargetRemove((integer) tnumber)"
+            },
+            {
+                "trigger": "llTeleportAgentHome((key) id)",
+                "contents": "llTeleportAgentHome((key) id)"
+            },
+            {
+                "trigger": "llToLower((string) src)",
+                "contents": "llToLower((string) src)"
+            },
+            {
+                "trigger": "llToUpper((string) src)",
+                "contents": "llToUpper((string) src)"
+            },
+            {
+                "trigger": "llTriggerSound((string) sound, (float) volume)",
+                "contents": "llTriggerSound((string) sound, (float) volume)"
+            },
+            {
+                "trigger": "llTriggerSoundLimited((string) sound, (float) volume, (vector) tne, (vector) bsw)",
+                "contents": "llTriggerSoundLimited((string) sound, (float) volume, (vector) tne, (vector) bsw)"
+            },
+            {
+                "trigger": "llUnSit((key) id)",
+                "contents": "llUnSit((key) id)"
+            },
+            {
+                "trigger": "llUnescapeURL((string) url)",
+                "contents": "llUnescapeURL((string) url)"
+            },
+            {
+                "trigger": "llVecDist((vector) a, (vector) b)",
+                "contents": "llVecDist((vector) a, (vector) b)"
+            },
+            {
+                "trigger": "llVecMag((vector) vec)",
+                "contents": "llVecMag((vector) vec)"
+            },
+            {
+                "trigger": "llVecNorm((vector) vec)",
+                "contents": "llVecNorm((vector) vec)"
+            },
+            {
+                "trigger": "llVolumeDetect((integer) detect)",
+                "contents": "llVolumeDetect((integer) detect)"
+            },
+            {
+                "trigger": "llWater((vector) offset)",
+                "contents": "llWater((vector) offset)"
+            },
+            {
+                "trigger": "llWhisper((integer) channel, (string) text)",
+                "contents": "llWhisper((integer) channel, (string) text)"
+            },
+            {
+                "trigger": "llWind((vector) offset)",
+                "contents": "llWind((vector) offset)"
+            },
+            {
+                "trigger": "llXorBase64Strings((string) s1, (string) s2)",
+                "contents": "llXorBase64Strings((string) s1, (string) s2)"
+            },
+            {
+                "trigger": "llXorBase64StringsCorrect((string) s1, (string) s2)",
+                "contents": "llXorBase64StringsCorrect((string) s1, (string) s2)"
+            },
+            {
+                "trigger": "money(key giver, integer amount)",
+                "contents": "money(key giver, integer amount)"
+            },
+            {
+                "trigger": "moving_end()",
+                "contents": "moving_end()"
+            },
+            {
+                "trigger": "moving_start()",
+                "contents": "moving_start()"
+            },
+            {
+                "trigger": "no_sensor()",
+                "contents": "no_sensor()"
+            },
+            {
+                "trigger": "not_at_rot_target()",
+                "contents": "not_at_rot_target()"
+            },
+            {
+                "trigger": "not_at_target()",
+                "contents": "not_at_target()"
+            },
+            {
+                "trigger": "object_rez(key id)",
+                "contents": "object_rez(key id)"
+            },
+            {
+                "trigger": "on_rez(integer start_param)",
+                "contents": "on_rez(integer start_param)"
+            },
+            {
+                "trigger": "remote_data(integer type, key channel, key message_id, string sender, integer ival, string sval)",
+                "contents": "remote_data(integer type, key channel, key message_id, string sender, integer ival, string sval)"
+            },
+            {
+                "trigger": "return",
+                "contents": "return"
+            },
+            {
+                "trigger": "rotation",
+                "contents": "rotation"
+            },
+            {
+                "trigger": "run_time_permissions(integer permissions)",
+                "contents": "run_time_permissions(integer permissions)"
+            },
+            {
+                "trigger": "sensor(integer total_number)",
+                "contents": "sensor(integer total_number)"
+            },
+            {
+                "trigger": "state ",
+                "contents": "state "
+            },
+            {
+                "trigger": "state_entry()",
+                "contents": "state_entry()"
+            },
+            {
+                "trigger": "state_exit()",
+                "contents": "state_exit()"
+            },
+            {
+                "trigger": "string ",
+                "contents": "string "
+            },
+            {
+                "trigger": "timer()",
+                "contents": "timer()"
+            },
+            {
+                "trigger": "touch(integer total_number)",
+                "contents": "touch(integer total_number)"
+            },
+            {
+                "trigger": "touch_end(integer total_number)",
+                "contents": "touch_end(integer total_number)"
+            },
+            {
+                "trigger": "touch_start(integer total_number)",
+                "contents": "touch_start(integer total_number)"
+            },
+            {
+                "trigger": "vector ",
+                "contents": "vector "
+            },
+            {
+                "trigger": "while",
+                "contents": "while"
+            }
+        ]
+}
