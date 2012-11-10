@@ -1,6 +1,7 @@
 # Sublime Text 2 lsl syntax
 
 Syntax highlighting and code completion for Sublime Text 2 
+<<<<<<< HEAD
 
 #Installation
 
@@ -47,3 +48,11 @@ Restart Sublime Text 2 and the theme is installed.
 # Snippets
 
 Most of the snippets where taken from [the lsl TextMate bundle](http://forums-archive.secondlife.com/54/ae/89389/1.html).
+=======
+
+###
+
+Most of the snippets where taken from [the lsl TextMate bundle](http://forums-archive.secondlife.com/54/ae/89389/1.html).
+
+
+>>>>>>> bc7098df0f4b44a1fc52ce2fb9d42d3d96b6df50
