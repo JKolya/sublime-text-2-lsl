@@ -13,7 +13,7 @@ Package Control is an essential Sublime Text 2 plugin and can be found here:  ht
 
 To install Package Control, simply open up Sublime Text 2, press CTRL + ` (that's the dash key to the left of your 1 key), and then copy the following text into the command line interface that appears and hit enter:
 ```python
-`_import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation’_`
+import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'
 ```
 You will need to restart Sublime Text 2 to complete installation.
 
