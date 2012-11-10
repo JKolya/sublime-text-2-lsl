@@ -53,6 +53,3 @@ Most of the snippets where taken from [the lsl TextMate bundle](http://forums-ar
 ###
 
 Most of the snippets where taken from [the lsl TextMate bundle](http://forums-archive.secondlife.com/54/ae/89389/1.html).
-
-
->>>>>>> bc7098df0f4b44a1fc52ce2fb9d42d3d96b6df50
